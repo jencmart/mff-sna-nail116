@@ -1,0 +1,2806 @@
+Loading from CSV
+Ego Netwrok: Network science
+	original: |V|=4151 |E|=5330
+	truncated: |V|=750 |E|=1929
+1. Degree Centrality
+	out degree: 282 ... Normalized: 0.376502002670227
+	in degree: 4 ... Normalized: 0.0053404539385847796
+2. Betweenness Centrality
+	betweenness: 5181 ... Normalized: 0.35452306007937595
+3. Closeness Centrality
+	closeness Centrality: 0.007023857897486503
+	closeness Centrality: 0.3811704834605598
+Downloading Complex network
+0/143 ---> Adjacency list
+	0/41 ---> Adjacency matrix
+	20/41 ---> Guido van Rossum
+	40/41 ---> XGMML
+1/143 ---> Adjacency matrix
+	0/97 ---> (0,1)-matrix
+	20/97 ---> Degree matrix
+	40/97 ---> Graph database
+	60/97 ---> Michael T. Goodrich
+	80/97 ---> Spectral graph theory
+2/143 ---> Agent-based model
+	0/250 ---> Active matter
+	20/250 ---> Biowarfare
+	40/250 ---> Comparison of agent-based modeling software
+	60/250 ---> Design for the Environment
+	80/250 ---> Environmental economics
+	100/250 ---> Geographic Information Systems
+	120/250 ---> Integrated chain management
+	140/250 ---> MET Matrix
+	160/250 ---> PMC (identifier)
+	180/250 ---> Ron Sun
+	200/250 ---> Sort sol
+	220/250 ---> Symbrion
+	240/250 ---> Von Neumann architecture
+3/143 ---> Albert-László Barabási
+	0/86 ---> Academia Europaea
+	20/86 ---> Dana–Farber Cancer Institute
+	40/86 ---> LCCN (identifier)
+	60/86 ---> Network theory
+	80/86 ---> University of Notre Dame
+4/143 ---> ArXiv (identifier)
+5/143 ---> Artificial neural network
+	0/775 ---> 20Q
+	20/775 ---> Agent-based model
+	40/775 ---> Artificial intelligence
+	60/775 ---> BERT (language model)
+	80/775 ---> Biological neuron models
+	100/775 ---> Catastrophic interference
+	120/775 ---> Coastal engineering
+	140/775 ---> Complex system
+	160/775 ---> Context-aware pervasive systems
+	180/775 ---> Data clustering
+	200/775 ---> Differentiable programming
+	220/775 ---> E-mail spam
+	240/775 ---> Evolution
+	260/775 ---> Feedback
+	280/775 ---> Game theory
+	300/775 ---> Gradient
+	320/775 ---> Hidden Markov model
+	340/775 ---> Hyperparameters
+	360/775 ---> International Conference on Machine Learning
+	380/775 ---> LIDAR
+	400/775 ---> List of machine learning concepts
+	420/775 ---> Mathematics of Control, Signals, and Systems
+	440/775 ---> Molecular cellular cognition
+	460/775 ---> Network controllability
+	480/775 ---> Neurocardiology
+	500/775 ---> Neuroimmune system
+	520/775 ---> Neurophysics
+	540/775 ---> Nonlinear dynamics
+	560/775 ---> Ordinary differential equations
+	580/775 ---> Paul Werbos
+	600/775 ---> Programmable logic controller
+	620/775 ---> Rational choice theory
+	640/775 ---> Root Locus
+	660/775 ---> Sepp Hochreiter
+	680/775 ---> Spatial evolutionary biology
+	700/775 ---> Stochastic control
+	720/775 ---> TensorFlow
+	740/775 ---> U-Net
+	760/775 ---> Warren McCulloch
+6/143 ---> Assortativity
+	0/107 ---> Adjacency list
+	20/107 ---> Community structure
+	40/107 ---> Evolving networks
+	60/107 ---> List of network theory topics
+	80/107 ---> Preferential attachment
+	100/107 ---> Telecommunications network
+7/143 ---> Autonomous system (Internet)
+	0/29 ---> AFRINIC
+	20/29 ---> Peering
+8/143 ---> Balance theory
+	0/42 ---> Academic Press
+	20/42 ---> Information integration theory
+	40/42 ---> Valence (psychology)
+9/143 ---> Barabási–Albert model
+	0/128 ---> A. Korn
+	20/128 ---> Centrality
+	40/128 ---> Derek J. de Solla Price
+	60/128 ---> Herbert A. Simon
+	80/128 ---> Modularity (networks)
+	100/128 ---> Reciprocity (network science)
+	120/128 ---> Telecommunications network
+10/143 ---> Betweenness centrality
+	0/24 ---> ArXiv (identifier)
+	20/24 ---> Telecommunications network
+11/143 ---> Bibcode (identifier)
+12/143 ---> Biological network
+	0/175 ---> Adjacency list
+	20/175 ---> Bose–Einstein condensate
+	40/175 ---> Computational Biology
+	60/175 ---> Epidemic model
+	80/175 ---> Graph (discrete mathematics)
+	100/175 ---> Link analysis
+	120/175 ---> Network topology
+	140/175 ---> Protein–protein interaction
+	160/175 ---> Spatial network
+13/143 ---> Biology
+	0/703 ---> 1980 eruption of Mount St. Helens
+	20/703 ---> Amber
+	40/703 ---> Atlantic Ocean
+	60/703 ---> Biofacies
+	80/703 ---> Canyonlands National Park
+	100/703 ---> Clay
+	120/703 ---> Convection
+	140/703 ---> Debris flow
+	160/703 ---> Drill core
+	180/703 ---> Engineering geology
+	200/703 ---> Fabric (geology)
+	220/703 ---> Fold and thrust belt
+	240/703 ---> Geobiology
+	260/703 ---> Geological modelling
+	280/703 ---> Geotourism
+	300/703 ---> Halite (mineral)
+	320/703 ---> Human impact on the environment
+	340/703 ---> Intrusion
+	360/703 ---> Kittatinny Mountain
+	380/703 ---> Lithosphere
+	400/703 ---> Matua Island
+	420/703 ---> Mokelumne
+	440/703 ---> Nature
+	460/703 ---> Outline of Earth
+	480/703 ---> Persia
+	500/703 ---> Pleochroism
+	520/703 ---> Quartz
+	540/703 ---> Rock strata
+	560/703 ---> Sedimentary basin
+	580/703 ---> Slave craton
+	600/703 ---> Stratigraphy
+	620/703 ---> Syncline
+	640/703 ---> Thick-skinned deformation
+	660/703 ---> Universe
+	680/703 ---> Water resources
+	700/703 ---> Yellowstone National Park
+14/143 ---> Bipartite graph
+	0/150 ---> (0,1) matrix
+	20/150 ---> Bruce Reed (mathematician)
+	40/150 ---> Discrete Mathematics (journal)
+	60/150 ---> Girth (graph theory)
+	80/150 ---> Intersection graph
+	100/150 ---> Maximum weight matching
+	120/150 ---> Ping Zhang (graph theorist)
+	140/150 ---> Strong perfect graph theorem
+15/143 ---> Boolean network
+	0/321 ---> Abstract Wiener space
+	20/321 ---> Biased random walk on a graph
+	40/321 ---> Cauchy process
+	60/321 ---> Constant elasticity of variance model
+	80/321 ---> Doi (identifier)
+	100/321 ---> Exchangeable random variables
+	120/321 ---> Gaussian random field
+	140/321 ---> Hull–White model
+	160/321 ---> Kolmogorov continuity theorem
+	180/321 ---> Lévy–Prokhorov metric
+	200/321 ---> Metrics (networking)
+	220/321 ---> Ornstein–Uhlenbeck process
+	240/321 ---> Random dynamical system
+	260/321 ---> Scientific collaboration network
+	280/321 ---> Stable process
+	300/321 ---> Telegraph process
+	320/321 ---> Yves Pomeau
+16/143 ---> Branching process
+	0/227 ---> Abstract Wiener space
+	20/227 ---> Brownian bridge
+	40/227 ---> Cox process
+	60/227 ---> Ergodicity
+	80/227 ---> Gauss–Markov process
+	100/227 ---> Itô's lemma
+	120/227 ---> Lévy process
+	140/227 ---> McKean–Vlasov process
+	160/227 ---> Probability theory
+	180/227 ---> S2CID (identifier)
+	200/227 ---> Stochastic control
+	220/227 ---> Wald's equation
+17/143 ---> Centrality
+	0/150 ---> Adjacency list
+	20/150 ---> Clique (graph theory)
+	40/150 ---> Digraph (mathematics)
+	60/150 ---> Graph (abstract data type)
+	80/150 ---> Link analysis
+	100/150 ---> Network theory
+	120/150 ---> Scientific collaboration network
+	140/150 ---> Telecommunications network
+18/143 ---> Climate
+	0/672 ---> Abiogenesis
+	20/672 ---> ArXiv (identifier)
+	40/672 ---> Attribution of recent climate change
+	60/672 ---> Canada
+	80/672 ---> Climate change adaptation
+	100/672 ---> Climate classification
+	120/672 ---> Climate of Barbados
+	140/672 ---> Climate of China
+	160/672 ---> Climate of Finland
+	180/672 ---> Climate of Israel
+	200/672 ---> Climate of Luxembourg
+	220/672 ---> Climate of New Zealand
+	240/672 ---> Climate of Rwanda
+	260/672 ---> Climate of State of Palestine
+	280/672 ---> Climate of Uruguay
+	300/672 ---> Climate of the Republic of Ireland
+	320/672 ---> Condensation
+	340/672 ---> Diurnal temperature variation
+	360/672 ---> Effects of climate change on human health
+	380/672 ---> Equivalent potential temperature
+	400/672 ---> Future of Earth
+	420/672 ---> Greenhouse effect
+	440/672 ---> Humidity
+	460/672 ---> James Hansen
+	480/672 ---> Low-carbon energy
+	500/672 ---> Monsoon
+	520/672 ---> Ocean acidification
+	540/672 ---> Planetary science
+	560/672 ---> Radiative forcing
+	580/672 ---> Season
+	600/672 ---> Storm
+	620/672 ---> Thermodynamics
+	640/672 ---> UNFCCC
+	660/672 ---> Wet-bulb potential temperature
+19/143 ---> Climate networks
+	0/37 ---> ArXiv (identifier)
+	20/37 ---> ISBN (identifier)
+20/143 ---> Clique (graph theory)
+	0/98 ---> Abstract simplicial complex
+	20/98 ---> Clique game
+	40/98 ---> George Szekeres
+	60/98 ---> Lower bound
+	80/98 ---> Protein-protein interaction
+21/143 ---> Closeness (graph theory)
+	0/150 ---> Adjacency list
+	20/150 ---> Clique (graph theory)
+	40/150 ---> Digraph (mathematics)
+	60/150 ---> Graph (abstract data type)
+	80/150 ---> Link analysis
+	100/150 ---> Network theory
+	120/150 ---> Scientific collaboration network
+	140/150 ---> Telecommunications network
+22/143 ---> Clustering coefficient
+	0/38 ---> A. D. Perry
+	20/38 ---> P. W. Holland
+23/143 ---> Combinatorial optimization
+	0/97 ---> Alexander Schrijver
+	20/97 ---> Cutting stock problem
+	40/97 ---> Integer programming
+	60/97 ---> Minimum spanning tree
+	80/97 ---> Set cover problem
+24/143 ---> Community structure
+	0/144 ---> Adjacency list
+	20/144 ---> Clique
+	40/144 ---> Degree distribution
+	60/144 ---> Graph drawing
+	80/144 ---> List of algorithms
+	100/144 ---> Network on a chip
+	120/144 ---> Scientific collaboration network
+	140/144 ---> Variation of information
+25/143 ---> Complete graph
+	0/82 ---> ArXiv (identifier)
+	20/82 ---> Edge-transitive graph
+	40/82 ---> Kuratowski's theorem
+	60/82 ---> Regular polygon
+	80/82 ---> Wagner's theorem
+26/143 ---> Complex Networks
+	0/287 ---> 10-10-321
+	20/287 ---> Business Insider
+	40/287 ---> Dale Earnhardt Jr.
+	60/287 ---> Entertainment
+	80/287 ---> Green Label
+	100/287 ---> Iconix Brand Group
+	120/287 ---> Kathryn Tesija
+	140/287 ---> MCI Inc.
+	160/287 ---> Nas
+	180/287 ---> Psychologies
+	200/287 ---> Streetwear
+	220/287 ---> The Potpourri
+	240/287 ---> Verizon Media
+	260/287 ---> WGAL
+	280/287 ---> Woman's Day
+27/143 ---> Complex adaptive system
+	0/206 ---> Adaptive
+	20/206 ---> C. West Churchman
+	40/206 ---> Coupled human–environment system
+	60/206 ---> Energy system
+	80/206 ---> Howard T. Odum
+	100/206 ---> Kevin Warwick
+	120/206 ---> Mode (statistics)
+	140/206 ---> Physical system
+	160/206 ---> Self-similar
+	180/206 ---> Systems art
+	200/206 ---> Viable system theory
+28/143 ---> Complex contagion
+	0/75 ---> Action theory (sociology)
+	20/75 ---> Emotional contagion
+	40/75 ---> Six degrees of separation
+	60/75 ---> Social networking service
+29/143 ---> Complex networks
+	0/287 ---> 10-10-321
+	20/287 ---> Business Insider
+	40/287 ---> Dale Earnhardt Jr.
+	60/287 ---> Entertainment
+	80/287 ---> Green Label
+	100/287 ---> Iconix Brand Group
+	120/287 ---> Kathryn Tesija
+	140/287 ---> MCI Inc.
+	160/287 ---> Nas
+	180/287 ---> Psychologies
+	200/287 ---> Streetwear
+	220/287 ---> The Potpourri
+	240/287 ---> Verizon Media
+	260/287 ---> WGAL
+	280/287 ---> Woman's Day
+30/143 ---> Complex systems
+	0/410 ---> Acquisitions
+	20/410 ---> ArXiv (identifier)
+	40/410 ---> Butterfly effect
+	60/410 ---> Cognitive Science
+	80/410 ---> Complexity economics
+	100/410 ---> Dave Snowden
+	120/410 ---> Economic calculation problem
+	140/410 ---> Evolutionary game theory
+	160/410 ---> Geomorphology
+	180/410 ---> Herd behavior
+	200/410 ---> Intermolecular force
+	220/410 ---> Kenneth E. Boulding
+	240/410 ---> Manuela M. Veloso
+	260/410 ---> Network science
+	280/410 ---> PMID (identifier)
+	300/410 ---> Political party
+	320/410 ---> Robert McCormick Adams Jr.
+	340/410 ---> Shlomo Havlin
+	360/410 ---> Stephanie Forrest
+	380/410 ---> Systems neuroscience
+	400/410 ---> Urban metabolism
+31/143 ---> Computer network
+	0/729 ---> 100 Gigabit Ethernet
+	20/729 ---> American Civil Liberties Union
+	40/729 ---> Balance theory
+	60/729 ---> Broadcast, unknown-unicast and multicast traffic
+	80/729 ---> Circuit switched
+	100/729 ---> Comparison of operating systems
+	120/729 ---> Computer data storage
+	140/729 ---> Connection-oriented
+	160/729 ---> Dartmouth Time Sharing System
+	180/729 ---> Device driver
+	200/729 ---> Distributed computing
+	220/729 ---> Electronic design automation
+	240/729 ---> Evolution-Data Optimized
+	260/729 ---> Fixed-priority pre-emptive scheduling
+	280/729 ---> Google Talk
+	300/729 ---> Hobbyist operating system development
+	320/729 ---> IEEE P1906.1
+	340/729 ---> Instant messaging
+	360/729 ---> Internet providers
+	380/729 ---> Last mile
+	400/729 ---> MOSFET
+	420/729 ---> Mixed reality
+	440/729 ---> NDL (identifier)
+	460/729 ---> Network delay
+	480/729 ---> Network switch
+	500/729 ---> Operating system
+	520/729 ---> Peer-to-peer file sharing
+	540/729 ---> Probability
+	560/729 ---> Random graph
+	580/729 ---> Round-robin scheduling
+	600/729 ---> Server (computing)
+	620/729 ---> Software design
+	640/729 ---> Supervised learning
+	660/729 ---> Time-sharing
+	680/729 ---> United States Department of Defense
+	700/729 ---> Virtual memory
+	720/729 ---> World Wide Web
+32/143 ---> Computer science
+	0/558 ---> ACM Computing Classification System
+	20/558 ---> Analytical Engine
+	40/558 ---> Bertrand Meyer
+	60/558 ---> Coding theory
+	80/558 ---> Computational physics
+	100/558 ---> Computer programming
+	120/558 ---> Curlie
+	140/558 ---> Dependability
+	160/558 ---> Econet
+	180/558 ---> Essential Systems Analysis
+	200/558 ---> Glossary of agriculture
+	220/558 ---> Glossary of entomology terms
+	240/558 ---> Goto
+	260/558 ---> History of computer hardware in Soviet Bloc countries
+	280/558 ---> History of the graphical user interface
+	300/558 ---> Information retrieval
+	320/558 ---> Julius Edgar Lilienfeld
+	340/558 ---> Lois Haibt
+	360/558 ---> Middleware
+	380/558 ---> Network architecture
+	400/558 ---> Outline of computer science
+	420/558 ---> Practical disciplines
+	440/558 ---> Randomized algorithms
+	460/558 ---> Service-oriented architecture
+	480/558 ---> Software maintenance
+	500/558 ---> System on a chip
+	520/558 ---> Tony Hoare
+	540/558 ---> Victor Basili
+33/143 ---> Connected component (graph theory)
+	0/52 ---> Ackermann function
+	20/52 ---> Equivalence relation
+	40/52 ---> SL (complexity)
+34/143 ---> Connectome
+	0/196 ---> 2-D electrophoresis
+	20/196 ---> Brainbow
+	40/196 ---> Connectomics
+	60/196 ---> Fluorescent protein
+	80/196 ---> Human Genome Project
+	100/196 ---> MICrONS
+	120/196 ---> Neural coding
+	140/196 ---> Pattern recognition
+	160/196 ---> Sanger Centre
+	180/196 ---> Synaptic plasticity
+35/143 ---> Cut (graph theory)
+	0/53 ---> Approximation ratio
+	20/53 ---> Glossary of graph theory
+	40/53 ---> Ronald L. Rivest
+36/143 ---> Cycle (graph theory)
+	0/62 ---> Alan Tucker
+	20/62 ---> Depth-first search
+	40/62 ---> Perfect graph
+	60/62 ---> Wait-for graph
+37/143 ---> Degree (graph theory)
+	0/51 ---> ArXiv (identifier)
+	20/51 ---> Graph isomorphism
+	40/51 ---> Regular graph
+38/143 ---> Degree distribution
+	0/116 ---> Adjacency list
+	20/116 ---> Complete graph
+	40/116 ---> Fat-tailed distribution
+	60/116 ---> Joint probability distribution
+	80/116 ---> PageRank
+	100/116 ---> Social influence
+39/143 ---> Dependency network
+	0/24 ---> Bibcode (identifier)
+	20/24 ---> Pearson product-moment correlation coefficient
+40/143 ---> Directed graph
+	0/69 ---> Adjacency matrix
+	20/69 ---> Frank Harary
+	40/69 ---> Multiset
+	60/69 ---> Transpose graph
+41/143 ---> Distance (graph theory)
+	0/31 ---> ArXiv (identifier)
+	20/31 ---> Level structure
+42/143 ---> Doi (identifier)
+43/143 ---> Dual-phase evolution
+	0/54 ---> Alfréd Rényi
+	20/54 ---> Hill climbing
+	40/54 ---> Scale-free network
+44/143 ---> Duncan J. Watts
+	0/55 ---> ACM DL (identifier)
+	20/55 ---> MGP (identifier)
+	40/55 ---> Six Degrees: The Science of a Connected Age
+45/143 ---> Dynamic network analysis
+	0/73 ---> Adolescent cliques
+	20/73 ---> ISSN (identifier)
+	40/73 ---> Six degrees of separation
+	60/73 ---> Social occultation
+46/143 ---> Edge (graph theory)
+	0/109 ---> Adjacency matrix
+	20/109 ---> Connected graph
+	40/109 ---> Finite state machine
+	60/109 ---> James Joseph Sylvester
+	80/109 ---> Orientation (graph theory)
+	100/109 ---> Strongly regular graph
+47/143 ---> Efficiency (network science)
+	0/98 ---> Adjacency list
+	20/98 ---> Clustering coefficient
+	40/98 ---> Exponential random graph models
+	60/98 ---> Maximum-entropy random graph model
+	80/98 ---> Scale-free network
+48/143 ---> Entropy (information theory)
+	0/286 ---> A-law algorithm
+	20/286 ---> Bin size
+	40/286 ---> Claude Shannon
+	60/286 ---> DEFLATE
+	80/286 ---> Diversity index
+	100/286 ---> Equiprobable
+	120/286 ---> Hamming distance
+	140/286 ---> Joint entropy
+	160/286 ---> Lempel–Ziv–Oberhumer
+	180/286 ---> Markov source
+	200/286 ---> Nyquist–Shannon sampling theorem
+	220/286 ---> Quantization (image processing)
+	240/286 ---> Shannon (unit)
+	260/286 ---> Theil index
+	280/286 ---> Von Neumann entropy
+49/143 ---> Epidemic model
+	0/89 ---> 3Blue1Brown
+	20/89 ---> Data visualization
+	40/89 ---> Input-output model
+	60/89 ---> Next-generation matrix
+	80/89 ---> Transcendental equation
+50/143 ---> Epidemiology
+	0/847 ---> 1854 Broad Street cholera outbreak
+	20/847 ---> Annals of Epidemiology
+	40/847 ---> Bayes factor
+	60/847 ---> Biological interaction
+	80/847 ---> Box–Jenkins method
+	100/847 ---> Case–control study
+	120/847 ---> Chronobiology
+	140/847 ---> Community (ecology)
+	160/847 ---> Credible interval
+	180/847 ---> Developmental biology
+	200/847 ---> Doi (identifier)
+	220/847 ---> Energy
+	240/847 ---> Epidemiology of bed bugs
+	260/847 ---> Epidemiology of syphilis
+	280/847 ---> Exposome
+	300/847 ---> Forest plot
+	320/847 ---> Genomics
+	340/847 ---> Great Plague of London
+	360/847 ---> Health politics
+	380/847 ---> Human nutrition
+	400/847 ---> Injury prevention
+	420/847 ---> Joseph Lister
+	440/847 ---> Linear regression
+	460/847 ---> Lp space
+	480/847 ---> Median-unbiased estimator
+	500/847 ---> Minimum distance estimation
+	520/847 ---> Multiple comparisons
+	540/847 ---> Neuroepidemiology
+	560/847 ---> Occupational medicine
+	580/847 ---> Outline of statistics
+	600/847 ---> Period prevalence
+	620/847 ---> Population ecology
+	640/847 ---> Preventive nutrition
+	660/847 ---> Public health laboratory
+	680/847 ---> Rank correlation
+	700/847 ---> Risk ratio
+	720/847 ---> School hygiene
+	740/847 ---> Social distancing
+	760/847 ---> Statistic
+	780/847 ---> Structural break
+	800/847 ---> Teratology
+	820/847 ---> Urban planning
+	840/847 ---> World Health Organization
+51/143 ---> Erdős–Rényi model
+	0/120 ---> Adjacency list
+	20/120 ---> Clustering coefficient
+	40/120 ---> Edge (graph theory)
+	60/120 ---> Incidence matrix
+	80/120 ---> Network motif
+	100/120 ---> Semantic network
+52/143 ---> Evolving networks
+	0/44 ---> Alfréd Rényi
+	20/44 ---> Network science
+	40/44 ---> Vertex (graph theory)
+53/143 ---> Exponential random graph models
+	0/109 ---> Adjacency list
+	20/109 ---> Complete graph
+	40/109 ---> Fitness model (network theory)
+	60/109 ---> Link analysis
+	80/109 ---> Path (graph theory)
+	100/109 ---> Stochastic block model
+54/143 ---> Fitness model (network theory)
+	0/15 ---> Albert-László Barabási
+55/143 ---> Flow network
+	0/58 ---> ArXiv (identifier)
+	20/58 ---> Flow graph (disambiguation)
+	40/58 ---> Nowhere-zero flow
+56/143 ---> Frigyes Karinthy
+	0/59 ---> A. A. Milne
+	20/59 ---> Internet Archive
+	40/59 ---> Project Gutenberg
+57/143 ---> Graph (abstract data type)
+	0/101 ---> AA tree
+	20/101 ---> Computer science
+	40/101 ---> Graph Modelling Language
+	60/101 ---> Linked data structure
+	80/101 ---> Scalability
+	100/101 ---> XOR linked list
+58/143 ---> Graph (discrete mathematics)
+	0/109 ---> Adjacency matrix
+	20/109 ---> Connected graph
+	40/109 ---> Finite state machine
+	60/109 ---> James Joseph Sylvester
+	80/109 ---> Orientation (graph theory)
+	100/109 ---> Strongly regular graph
+59/143 ---> Graph drawing
+	0/147 ---> AT&T Corporation
+	20/147 ---> Coffman–Graham algorithm
+	40/147 ---> Distributed computing
+	60/147 ---> Graph-tool
+	80/147 ---> Intersection graph
+	100/147 ---> Microsoft Automatic Graph Layout
+	120/147 ---> Python (programming language)
+	140/147 ---> Tulip (software)
+60/143 ---> Herbert A. Simon
+	0/1199 ---> 3M computer
+	20/1199 ---> Alan Perlis
+	40/1199 ---> Amartya Sen
+	60/1199 ---> Applied behavior analysis
+	80/1199 ---> Backwardness
+	100/1199 ---> Bill Hewlett
+	120/1199 ---> Carl Jung
+	140/1199 ---> Case study
+	160/1199 ---> Christopher A. Sims
+	180/1199 ---> Cologne
+	200/1199 ---> Cross-cultural psychology
+	220/1199 ---> David Baltimore
+	240/1199 ---> Doctoral advisor
+	260/1199 ---> E. O. Wilson
+	280/1199 ---> Edward C. Prescott
+	300/1199 ---> Eli Ruckenstein
+	320/1199 ---> Ernst Mayr
+	340/1199 ---> Felix Pollaczek
+	360/1199 ---> Fred Brooks
+	380/1199 ---> Georg Weizsäcker
+	400/1199 ---> George Stigler
+	420/1199 ---> Gregory Breit
+	440/1199 ---> Harold Demsetz
+	460/1199 ---> Henry George
+	480/1199 ---> Historical school of economics
+	500/1199 ---> ISSN (identifier)
+	520/1199 ---> J. Presper Eckert
+	540/1199 ---> James M. Buchanan
+	560/1199 ---> Jerzy Neyman
+	580/1199 ---> John G. Trump
+	600/1199 ---> John Roy Whinnery
+	620/1199 ---> János Kornai
+	640/1199 ---> Kurt O. Friedrichs
+	660/1199 ---> Leo Kadanoff
+	680/1199 ---> List of psychological schools
+	700/1199 ---> MGP (identifier)
+	720/1199 ---> Martin I. Reiman
+	740/1199 ---> Maurice Wilkes
+	760/1199 ---> Michael S. Brown
+	780/1199 ---> NDL (identifier)
+	800/1199 ---> Niklaus Wirth
+	820/1199 ---> Organizations (book)
+	840/1199 ---> Paul Krugman
+	860/1199 ---> Peter Whittle (mathematician)
+	880/1199 ---> Problem-solving
+	900/1199 ---> Rachel Croson
+	920/1199 ---> Richard Brauer
+	940/1199 ---> Roald Hoffmann
+	960/1199 ---> Robert Kates
+	980/1199 ---> Roger Brown (psychologist)
+	1000/1199 ---> Ruth Patrick
+	1020/1199 ---> Scotch'n'Soda
+	1040/1199 ---> Simon Ramo
+	1060/1199 ---> Stephen J. Benkovic
+	1080/1199 ---> Technostructure
+	1100/1199 ---> Thomas Kailath
+	1120/1199 ---> University of Pavia
+	1140/1199 ---> Vintner
+	1160/1199 ---> Werner Abelshauser
+	1180/1199 ---> William Rubey
+61/143 ---> Hierarchical network model
+	0/105 ---> Adjacency list
+	20/105 ---> Community structure
+	40/105 ---> Exponential random graph models
+	60/105 ---> Maximum-entropy random graph model
+	80/105 ---> Preferential attachment
+	100/105 ---> Triadic closure
+62/143 ---> Hierarchy
+	0/367 ---> 3D computer graphics
+	20/367 ---> Autocephalous
+	40/367 ---> Carbon
+	60/367 ---> Co-worker
+	80/367 ---> Cycle (graph theory)
+	100/367 ---> Ecclesiastical hierarchy
+	120/367 ---> Glossary of Nazi Germany
+	140/367 ---> Hierarchical Decision Process
+	160/367 ---> Hierarchical organization
+	180/367 ---> Hierarchy of life
+	200/367 ---> International Society for Bayesian Analysis
+	220/367 ---> List of comparative military ranks
+	240/367 ---> Nation
+	260/367 ---> Oxford English Dictionary
+	280/367 ---> Presentation-abstraction-control
+	300/367 ---> Royal and noble ranks
+	320/367 ---> Springer Science+Business Media
+	340/367 ---> Thermodynamic system
+	360/367 ---> Vertex (graph theory)
+63/143 ---> Homophily
+	0/673 ---> Abilene paradox
+	20/673 ---> Anima mundi
+	40/673 ---> Axiom
+	60/673 ---> Breeding pair
+	80/673 ---> CiteSeerX (identifier)
+	100/673 ---> Common good
+	120/673 ---> Consensus decision-making
+	140/673 ---> Culpability
+	160/673 ---> Dependency network
+	180/673 ---> Eleatics
+	200/673 ---> Ethnicity
+	220/673 ---> Factoid
+	240/673 ---> Food and drink prohibitions
+	260/673 ---> Group emotion
+	280/673 ---> Holism
+	300/673 ---> Idios kosmos
+	320/673 ---> Invisible hand
+	340/673 ---> Liberty
+	360/673 ---> Mass action (sociology)
+	380/673 ---> Methodology
+	400/673 ---> Mythology
+	420/673 ---> Network theory
+	440/673 ---> Outline of epistemology
+	460/673 ---> Physics
+	480/673 ---> Pre-Socratic philosophy
+	500/673 ---> Random geometric graph
+	520/673 ---> Religious uniformity
+	540/673 ---> School of thought
+	560/673 ---> Slavery
+	580/673 ---> Social network analysis software
+	600/673 ---> Spiritism
+	620/673 ---> System justification
+	640/673 ---> Transport network
+	660/673 ---> Watts and Strogatz model
+64/143 ---> Hyperbolic Geometric Graph
+	0/118 ---> Adjacency list
+	20/118 ---> Community structure
+	40/118 ---> Epidemic model
+	60/118 ---> Incidence list
+	80/118 ---> Network on a chip
+	100/118 ---> Set (mathematics)
+65/143 ---> Hyperbolic geometric graph
+	0/118 ---> Adjacency list
+	20/118 ---> Community structure
+	40/118 ---> Epidemic model
+	60/118 ---> Incidence list
+	80/118 ---> Network on a chip
+	100/118 ---> Set (mathematics)
+66/143 ---> Hypercube
+	0/182 ---> 0-polytope
+	20/182 ---> 4 21 polytope
+	40/182 ---> 8-orthoplex
+	60/182 ---> Convex polytope
+	80/182 ---> Eric W. Weisstein
+	100/182 ---> Hypercubic honeycomb
+	120/182 ---> Minkowski dimension
+	140/182 ---> Projective space
+	160/182 ---> Three-dimensional space
+	180/182 ---> Zero-dimensional space
+67/143 ---> Hypergraph
+	0/140 ---> Abstract simplicial complex
+	20/140 ---> Combinatorial design
+	40/140 ---> Edge list
+	60/140 ---> Group (mathematics)
+	80/140 ---> Kruskal–Katona theorem
+	100/140 ---> PMC (identifier)
+	120/140 ---> S2CID (identifier)
+68/143 ---> ISBN (identifier)
+69/143 ---> ISSN (identifier)
+70/143 ---> Incidence list
+	0/41 ---> Adjacency matrix
+	20/41 ---> Guido van Rossum
+	40/41 ---> XGMML
+71/143 ---> Incidence matrix
+	0/54 ---> Adjacency list
+	20/54 ---> Graph (abstract data type)
+	40/54 ---> Multiple edges
+72/143 ---> Interdependent networks
+	0/110 ---> 2003 Italy blackout
+	20/110 ---> Combinatorial optimization
+	40/110 ---> Erdős–Rényi model
+	60/110 ---> Lancichinetti–Fortunato–Radicchi benchmark
+	80/110 ---> Path (graph theory)
+	100/110 ---> Spatial network
+73/143 ---> Lancichinetti–Fortunato–Radicchi benchmark
+	0/96 ---> Adjacency list
+	20/96 ---> Complex contagion
+	40/96 ---> Graph (discrete mathematics)
+	60/96 ---> Neighbourhood (graph theory)
+	80/96 ---> Semantic network
+74/143 ---> Lattice graph
+	0/33 ---> Bijection
+	20/33 ---> Lattice (group)
+75/143 ---> Link analysis
+	0/62 ---> Artificial intelligence
+	20/62 ---> Financial transaction
+	40/62 ---> Network theory
+	60/62 ---> Visualization (computer graphics)
+76/143 ---> List of algorithms
+	0/1045 ---> 3Dc
+	20/1045 ---> Algorithm X
+	40/1045 ---> Association rule learning
+	60/1045 ---> Basis (linear algebra)
+	80/1045 ---> Bidirectional search
+	100/1045 ---> Bootstrap aggregating
+	120/1045 ---> Burrows–Wheeler transform
+	140/1045 ---> Chaff algorithm
+	160/1045 ---> Cluster analysis
+	180/1045 ---> Computer architecture
+	200/1045 ---> Convex polygon
+	220/1045 ---> DBSCAN
+	240/1045 ---> Delaunay triangulation
+	260/1045 ---> Dijkstra-Scholten algorithm
+	280/1045 ---> ESC algorithm
+	300/1045 ---> Entropy encoding
+	320/1045 ---> Extrapolation
+	340/1045 ---> Fibonacci numbers
+	360/1045 ---> Fractal dimension
+	380/1045 ---> Gibbs sampling
+	400/1045 ---> Graph theory
+	420/1045 ---> Heapsort
+	440/1045 ---> Image-based lighting
+	460/1045 ---> Isosurface
+	480/1045 ---> Karger's algorithm
+	500/1045 ---> LZRW
+	520/1045 ---> Lempel–Ziv–Stac
+	540/1045 ---> Linear-feedback shift register
+	560/1045 ---> Lloyd's algorithm
+	580/1045 ---> Machine learning
+	600/1045 ---> Matrix multiplication
+	620/1045 ---> Metaheuristic
+	640/1045 ---> Monte Carlo simulation
+	660/1045 ---> Nearest neighbour algorithm
+	680/1045 ---> Normal mapping
+	700/1045 ---> PPM compression algorithm
+	720/1045 ---> Patience sorting
+	740/1045 ---> Point spread function
+	760/1045 ---> Prime factorization algorithm
+	780/1045 ---> Quickhull
+	800/1045 ---> Random walker algorithm
+	820/1045 ---> Rice coding
+	840/1045 ---> SRT division
+	860/1045 ---> Selection sort
+	880/1045 ---> Shortest path problem
+	900/1045 ---> Snapshot algorithm
+	920/1045 ---> Statistical classification
+	940/1045 ---> Substring search
+	960/1045 ---> Telephone exchange
+	980/1045 ---> Transform coding
+	1000/1045 ---> Ukkonen's algorithm
+	1020/1045 ---> Viterbi algorithm
+	1040/1045 ---> Young tableau
+77/143 ---> List of network scientists
+	0/202 ---> Aaron Clauset
+	20/202 ---> Boolean network
+	40/202 ---> Connected component (graph theory)
+	60/202 ---> Enterprise social networking
+	80/202 ---> Hierarchical network model
+	100/202 ---> List of algorithms
+	120/202 ---> Network on a chip
+	140/202 ---> Randy Bush (scientist)
+	160/202 ---> Social influence
+	180/202 ---> Structural endogamy
+	200/202 ---> Yamir Moreno
+78/143 ---> List of network theory topics
+	0/45 ---> Applied mathematics
+	20/45 ---> Network effect
+	40/45 ---> Traffic flow (computer networking)
+79/143 ---> Loop (graph theory)
+	0/24 ---> Adjacent vertex
+	20/24 ---> Pseudograph
+80/143 ---> Mathematics
+	0/428 ---> A Greek–English Lexicon
+	20/428 ---> Analytic number theory
+	40/428 ---> Babylonia
+	60/428 ---> Category theory
+	80/428 ---> Conjecture
+	100/428 ---> Differential equation
+	120/428 ---> Equation
+	140/428 ---> Formalism (mathematics)
+	160/428 ---> Giuseppe Peano
+	180/428 ---> Hipparchus of Nicaea
+	200/428 ---> International Mathematical Olympiad
+	220/428 ---> Law of excluded middle
+	240/428 ---> Mathematical and theoretical biology
+	260/428 ---> Mathematics (disambiguation)
+	280/428 ---> Multilinear algebra
+	300/428 ---> Open problem
+	320/428 ---> Pi
+	340/428 ---> Pythagoreans
+	360/428 ---> Riemann hypothesis
+	380/428 ---> Simplicity
+	400/428 ---> Tensor calculus
+	420/428 ---> Vector space
+81/143 ---> Matthew effect (sociology)
+	0/60 ---> Algorithmic information theory
+	20/60 ---> ISBN (identifier)
+	40/60 ---> Poincaré half-plane model
+82/143 ---> Maximum-entropy random graph model
+	0/121 ---> Adjacency list
+	20/121 ---> Closeness (graph theory)
+	40/121 ---> Edge (graph theory)
+	60/121 ---> Homophily
+	80/121 ---> Neighbourhood (graph theory)
+	100/121 ---> SIR model
+	120/121 ---> Weighted network
+83/143 ---> Metrics (networking)
+	0/15 ---> Administrative distance
+84/143 ---> Modularity (networks)
+	0/102 ---> Adjacency list
+	20/102 ---> Complex contagion
+	40/102 ---> Fitness model (network theory)
+	60/102 ---> Metrics (networking)
+	80/102 ---> SIR model
+	100/102 ---> Watts and Strogatz model
+85/143 ---> Multigraph
+	0/41 ---> ArXiv (identifier)
+	20/41 ---> ISSN (identifier)
+	40/41 ---> Vertex (graph theory)
+86/143 ---> Neighbourhood (graph theory)
+	0/56 ---> Adjacency list
+	20/56 ---> Graph isomorphism
+	40/56 ---> Neighbourhood (mathematics)
+87/143 ---> Network controllability
+	0/20 ---> Algebraic graph theory
+88/143 ---> Network effect
+	0/133 ---> 3Com
+	20/133 ---> Business model
+	40/133 ---> Embrace, extend and extinguish
+	60/133 ---> Information and communication technology
+	80/133 ---> Multihoming
+	100/133 ---> Rod Beckstrom
+	120/133 ---> Twitter
+89/143 ---> Network motif
+	0/113 ---> Adjacency list
+	20/113 ---> Community structure
+	40/113 ---> Evolving networks
+	60/113 ---> Link analysis
+	80/113 ---> PageRank
+	100/113 ---> Statistical ensemble (mathematical physics)
+90/143 ---> Network on a chip
+	0/426 ---> 1-bit computing
+	20/426 ---> Advanced Configuration and Power Interface
+	40/426 ---> Binary decoder
+	60/426 ---> Cache performance measurement and metric
+	80/426 ---> Communication
+	100/426 ---> Coprocessor
+	120/426 ---> Die (integrated circuit)
+	140/426 ---> Epidemic model
+	160/426 ---> General-purpose computing on graphics processing units
+	180/426 ---> High- and low-level
+	200/426 ---> Instructions per cycle
+	220/426 ---> MISD
+	240/426 ---> Mobile computing
+	260/426 ---> Network controllability
+	280/426 ---> Parallel computing
+	300/426 ---> Preferential attachment
+	320/426 ---> RTLinux
+	340/426 ---> SPARC
+	360/426 ---> Social capital
+	380/426 ---> Switch
+	400/426 ---> Transitive relation
+	420/426 ---> Weighted network
+91/143 ---> Network science
+	0/392 ---> Activity motifs
+	20/392 ---> Autopoiesis
+	40/392 ---> CheiRank
+	60/392 ---> Community recognition
+	80/392 ---> Cut (graph theory)
+	100/392 ---> Doi (identifier)
+	120/392 ---> Evolvability
+	140/392 ---> Giant Global Graph
+	160/392 ---> Hypergraph
+	180/392 ---> Issue-based information system
+	200/392 ---> Machine learning
+	220/392 ---> Network (disambiguation)
+	240/392 ---> Olog
+	260/392 ---> Pharmacology
+	280/392 ---> Reaction–diffusion system
+	300/392 ---> Self-organization
+	320/392 ---> Social data revolution
+	340/392 ---> Social occultation
+	360/392 ---> Systems theory
+	380/392 ---> Value network
+92/143 ---> Network theory
+	0/202 ---> Adjacency list
+	20/202 ---> Centrality
+	40/202 ---> Cut (graph theory)
+	60/202 ---> Epidemic model
+	80/202 ---> Hierarchical network model
+	100/202 ---> List of network scientists
+	120/202 ---> Network effect
+	140/202 ---> Pathfinder network
+	160/202 ---> Scientometrics
+	180/202 ---> Spatial network
+	200/202 ---> Weighted network
+93/143 ---> PMC (identifier)
+94/143 ---> PMID (identifier)
+95/143 ---> PageRank
+	0/143 ---> Adjacency matrix
+	20/143 ---> Cnn.com
+	40/143 ---> Google Panda
+	60/143 ---> Identity matrix
+	80/143 ---> Neuron
+	100/143 ---> Scale-free network
+	120/143 ---> Synsets
+	140/143 ---> WordNet
+96/143 ---> Path (graph theory)
+	0/27 ---> Algorithm
+	20/27 ---> Sequence
+97/143 ---> Percolation
+	0/62 ---> Aquifer
+	20/62 ---> Fragmentation (chemistry)
+	40/62 ---> PMID (identifier)
+	60/62 ---> Water pipe percolator
+98/143 ---> Percolation theory
+	0/355 ---> Abstract Wiener space
+	20/355 ---> Bibcode (identifier)
+	40/355 ---> Capsid
+	60/355 ---> Connected component (graph theory)
+	80/355 ---> Degree distribution
+	100/355 ---> Efficiency (network science)
+	120/355 ---> Flory–Stockmayer theory
+	140/355 ---> Glossary of graph theory
+	160/355 ---> Hypergraph
+	180/355 ---> Jump process
+	200/355 ---> Local time (mathematics)
+	220/355 ---> Mathematical model
+	240/355 ---> Network on a chip
+	260/355 ---> Predictable process
+	280/355 ---> Renewal theory
+	300/355 ---> Skorokhod's representation theorem
+	320/355 ---> Stochastic chains with memory of variable length
+	340/355 ---> Uniform integrability
+99/143 ---> Physics
+100/143 ---> Poisson distribution
+	0/367 ---> ARGUS distribution
+	20/367 ---> Beta distribution
+	40/367 ---> Chemistry
+	60/367 ---> Cumulative distribution function
+	80/367 ---> Electric current
+	100/367 ---> Folded normal distribution
+	120/367 ---> Generalized Pareto distribution
+	140/367 ---> Hypergeometric distribution
+	160/367 ---> Kent distribution
+	180/367 ---> Lomax distribution
+	200/367 ---> Michael Mitzenmacher
+	220/367 ---> Natural numbers
+	240/367 ---> Partition of a set
+	260/367 ---> Probability density function
+	280/367 ---> Rayleigh distribution
+	300/367 ---> Shifted log-logistic distribution
+	320/367 ---> Stieltjes transformation
+	340/367 ---> Uniform distribution (continuous)
+	360/367 ---> Wrapped normal distribution
+101/143 ---> Power-law
+	0/166 ---> 1% rule (Internet culture)
+	20/166 ---> Closure (mathematics)
+	40/166 ---> Electronic amplifier
+	60/166 ---> Gibrat's law
+	80/166 ---> Log-normal distribution
+	100/166 ---> PMC (identifier)
+	120/166 ---> Relative change and difference
+	140/166 ---> Statistical power
+	160/166 ---> Wiki
+102/143 ---> Power law
+	0/166 ---> 1% rule (Internet culture)
+	20/166 ---> Closure (mathematics)
+	40/166 ---> Electronic amplifier
+	60/166 ---> Gibrat's law
+	80/166 ---> Log-normal distribution
+	100/166 ---> PMC (identifier)
+	120/166 ---> Relative change and difference
+	140/166 ---> Statistical power
+	160/166 ---> Wiki
+103/143 ---> Preferential attachment
+	0/53 ---> ArXiv (identifier)
+	20/53 ---> Herbert A. Simon
+	40/53 ---> Simon model
+104/143 ---> Proc Natl Acad Sci USA
+	0/63 ---> Academic publisher
+	20/63 ---> Inder Verma
+	40/63 ---> Open access
+	60/63 ---> United States Department of Health and Human Services
+105/143 ---> Random geometric graph
+	0/111 ---> Adjacency list
+	20/111 ---> Complete graph
+	40/111 ---> Fitness model (network theory)
+	60/111 ---> List of algorithms
+	80/111 ---> PageRank
+	100/111 ---> Spatial network
+106/143 ---> Random graph
+	0/342 ---> Abstract Wiener space
+	20/342 ---> Bessel process
+	40/342 ---> Béla Bollobás
+	60/342 ---> Complex networks
+	80/342 ---> Dependency network
+	100/342 ---> Efficiency (network science)
+	120/342 ---> Fluid queue
+	140/342 ---> Hamiltonian cycle
+	160/342 ---> Ising model
+	180/342 ---> List of algorithms
+	200/342 ---> Markov random field
+	220/342 ---> Network motif
+	240/342 ---> Predictable process
+	260/342 ---> Random variable
+	280/342 ---> Scientific collaboration network
+	300/342 ---> Spatial network
+	320/342 ---> Time reversibility
+	340/342 ---> Wiener space
+107/143 ---> Random regular graphs
+	0/46 ---> Adjacency algebra
+	20/46 ---> Eigenvector
+	40/46 ---> Semi-symmetric graph
+108/143 ---> Reciprocity (network science)
+	0/100 ---> Adjacency list
+	20/100 ---> Complex contagion
+	40/100 ---> Flow network
+	60/100 ---> Maximum-entropy random graph model
+	80/100 ---> SIR model
+109/143 ---> Reciprocity in network
+	0/100 ---> Adjacency list
+	20/100 ---> Complex contagion
+	40/100 ---> Flow network
+	60/100 ---> Maximum-entropy random graph model
+	80/100 ---> SIR model
+110/143 ---> Regular lattices
+111/143 ---> S2CID (identifier)
+112/143 ---> SIR model
+	0/126 ---> 3Blue1Brown
+	20/126 ---> Colostrum
+	40/126 ---> Erlang distribution
+	60/126 ---> Infectious disease
+	80/126 ---> Modelling biological systems
+	100/126 ---> Rubella
+	120/126 ---> Visual analytics
+113/143 ---> Scale-free network
+	0/152 ---> Adjacency list
+	20/152 ---> Bose–Einstein condensation (network theory)
+	40/152 ---> Derek J. de Solla Price
+	60/152 ---> Hierarchical network model
+	80/152 ---> Mediation-driven attachment model
+	100/152 ---> Path (graph theory)
+	120/152 ---> Scientific collaboration network
+	140/152 ---> Transitive relation
+114/143 ---> Scale-free networks
+	0/152 ---> Adjacency list
+	20/152 ---> Bose–Einstein condensation (network theory)
+	40/152 ---> Derek J. de Solla Price
+	60/152 ---> Hierarchical network model
+	80/152 ---> Mediation-driven attachment model
+	100/152 ---> Path (graph theory)
+	120/152 ---> Scientific collaboration network
+	140/152 ---> Transitive relation
+115/143 ---> Scientific collaboration network
+	0/101 ---> Adjacency list
+	20/101 ---> Community structure
+	40/101 ---> Exponential random graph models
+	60/101 ---> Mark Newman
+	80/101 ---> Random graph
+	100/101 ---> Weighted network
+116/143 ---> Semantic network
+	0/301 ---> Abstract semantic graph
+	20/301 ---> Centrality
+	40/301 ---> Computers
+	60/301 ---> Diagrammatic reasoning
+	80/301 ---> First-order predicate calculus
+	100/301 ---> HAtom
+	120/301 ---> Incidence matrix
+	140/301 ---> Knowledge representation and reasoning
+	160/301 ---> Metadata
+	180/301 ---> Network theory
+	200/301 ---> RDFa
+	220/301 ---> Schema.org
+	240/301 ---> Semantic relationship
+	260/301 ---> Spatial network
+	280/301 ---> Unified Medical Language System
+	300/301 ---> XML
+117/143 ---> Six degrees of separation
+	0/354 ---> Abnormal psychology
+	20/354 ---> Basic science (psychology)
+	40/354 ---> Climate justice
+	60/354 ---> Consequential strangers
+	80/354 ---> Duncan J. Watts
+	100/354 ---> Facebook
+	120/354 ---> Harry Harlow
+	140/354 ---> Jean Piaget
+	160/354 ---> Kurt Lewin
+	180/354 ---> Lost (TV series)
+	200/354 ---> Nepal
+	220/354 ---> Personal network
+	240/354 ---> Quantitative psychology
+	260/354 ---> Sexual network
+	280/354 ---> Social aspects of television
+	300/354 ---> Social psychology
+	320/354 ---> The Facebook Effect
+	340/354 ---> User profile
+118/143 ---> Small-world network
+	0/487 ---> 1999 Seattle Protests
+	20/487 ---> Airline hub
+	40/487 ---> Barabási–Albert model
+	60/487 ---> Bridge (interpersonal)
+	80/487 ---> Clustering coefficient
+	100/487 ---> CrossFit
+	120/487 ---> Discord (software)
+	140/487 ---> Elfwood
+	160/487 ---> FilmAffinity
+	180/487 ---> Gapo
+	200/487 ---> Highlight (application)
+	220/487 ---> Incidence matrix
+	240/487 ---> List of network scientists
+	260/487 ---> Metrics (networking)
+	280/487 ---> Natter Social Network
+	300/487 ---> Online petition
+	320/487 ---> Piczo
+	340/487 ---> Red Light Center
+	360/487 ---> Six Degrees of Kevin Bacon
+	380/487 ---> Social network
+	400/487 ---> Stanley Milgram
+	420/487 ---> The Meta Network
+	440/487 ---> User Friendly
+	460/487 ---> White-label product
+	480/487 ---> Yahoo! Meme
+119/143 ---> Small-world networks
+	0/487 ---> 1999 Seattle Protests
+	20/487 ---> Airline hub
+	40/487 ---> Barabási–Albert model
+	60/487 ---> Bridge (interpersonal)
+	80/487 ---> Clustering coefficient
+	100/487 ---> CrossFit
+	120/487 ---> Discord (software)
+	140/487 ---> Elfwood
+	160/487 ---> FilmAffinity
+	180/487 ---> Gapo
+	200/487 ---> Highlight (application)
+	220/487 ---> Incidence matrix
+	240/487 ---> List of network scientists
+	260/487 ---> Metrics (networking)
+	280/487 ---> Natter Social Network
+	300/487 ---> Online petition
+	320/487 ---> Piczo
+	340/487 ---> Red Light Center
+	360/487 ---> Six Degrees of Kevin Bacon
+	380/487 ---> Social network
+	400/487 ---> Stanley Milgram
+	420/487 ---> The Meta Network
+	440/487 ---> User Friendly
+	460/487 ---> White-label product
+	480/487 ---> Yahoo! Meme
+120/143 ---> Small-world phenomenon
+	0/405 ---> 23snaps
+	20/405 ---> Ask.fm
+	40/405 ---> Brainly
+	60/405 ---> Cloob
+	80/405 ---> Cybersectarianism
+	100/405 ---> Duncan J. Watts
+	120/405 ---> Fillos de Galicia
+	140/405 ---> GemStone IV
+	160/405 ---> Houseparty (app)
+	180/405 ---> Jon Kleinberg
+	200/405 ---> Mark Granovetter
+	220/405 ---> Multiply (website)
+	240/405 ---> OpenSocial
+	260/405 ---> Pownce
+	280/405 ---> Sexual network
+	300/405 ---> Social exchange theory
+	320/405 ---> Solaborate
+	340/405 ---> Talenthouse
+	360/405 ---> Untappd
+	380/405 ---> WikiWikiWeb
+	400/405 ---> Yammer
+121/143 ---> Small world networks
+	0/487 ---> 1999 Seattle Protests
+	20/487 ---> Airline hub
+	40/487 ---> Barabási–Albert model
+	60/487 ---> Bridge (interpersonal)
+	80/487 ---> Clustering coefficient
+	100/487 ---> CrossFit
+	120/487 ---> Discord (software)
+	140/487 ---> Elfwood
+	160/487 ---> FilmAffinity
+	180/487 ---> Gapo
+	200/487 ---> Highlight (application)
+	220/487 ---> Incidence matrix
+	240/487 ---> List of network scientists
+	260/487 ---> Metrics (networking)
+	280/487 ---> Natter Social Network
+	300/487 ---> Online petition
+	320/487 ---> Piczo
+	340/487 ---> Red Light Center
+	360/487 ---> Six Degrees of Kevin Bacon
+	380/487 ---> Social network
+	400/487 ---> Stanley Milgram
+	420/487 ---> The Meta Network
+	440/487 ---> User Friendly
+	460/487 ---> White-label product
+	480/487 ---> Yahoo! Meme
+122/143 ---> Social capital
+	0/502 ---> Academic capital
+	20/502 ---> Anthony Giddens
+	40/502 ---> Bridge (interpersonal)
+	60/502 ---> Clique
+	80/502 ---> Community politics
+	100/502 ---> Critical theory
+	120/502 ---> Distributed social network
+	140/502 ---> Ethnic violence
+	160/502 ---> Gang
+	180/502 ---> Historical sociology
+	200/502 ---> Industrialisation
+	220/502 ---> Joseph Raz
+	240/502 ---> Liberal democracy
+	260/502 ---> Michael J. Sandel
+	280/502 ---> Norm (social)
+	300/502 ---> Pew Internet and American Life Project
+	320/502 ---> Poverty index
+	340/502 ---> Rent-seeking
+	360/502 ---> Six degrees of separation
+	380/502 ---> Social graph
+	400/502 ---> Social norm
+	420/502 ---> Sociological theory
+	440/502 ---> Strategic alliance
+	460/502 ---> The Theory of Moral Sentiments
+	480/502 ---> Variable capital
+	500/502 ---> Yes! (U.S. magazine)
+123/143 ---> Social influence
+	0/186 ---> Abuse
+	20/186 ---> Belief
+	40/186 ---> Consensus reality
+	60/186 ---> Dogma
+	80/186 ---> Hazing
+	100/186 ---> Interpersonal relationship
+	120/186 ---> Norm of reciprocity
+	140/186 ---> Power (social and political)
+	160/186 ---> Self-fulfilling prophecy
+	180/186 ---> Tyranny of the majority
+124/143 ---> Social network
+	0/815 ---> /Film
+	20/815 ---> A Star Is Born (2018 film)
+	40/815 ---> Alan Menken
+	60/815 ---> Angel investor
+	80/815 ---> BAFTA Award for Best Actor in a Supporting Role
+	100/815 ---> Bicycle Thieves
+	120/815 ---> Bret Taylor
+	140/815 ---> Cameron Winklevoss
+	160/815 ---> Claire's Knee
+	180/815 ---> Dario Marianelli
+	200/815 ---> Do the Right Thing
+	220/815 ---> Ennio Morricone
+	240/815 ---> Facebook Paper
+	260/815 ---> Fight Club
+	280/815 ---> Gandhi (film)
+	300/815 ---> Goodfellas
+	320/815 ---> High Heels (1991 film)
+	340/815 ---> IMDb
+	360/815 ---> Isaac Hayes
+	380/815 ---> Joseph Mazzello
+	400/815 ---> Lady Bird (film)
+	420/815 ---> List of awards and nominations received by David Fincher
+	440/815 ---> M (virtual assistant)
+	460/815 ---> Melvin and Howard
+	480/815 ---> Moonlight (2016 film)
+	500/815 ---> Network (1976 film)
+	520/815 ---> Oculus Rift S
+	540/815 ---> Paris, Texas (film)
+	560/815 ---> Quentin Tarantino
+	580/815 ---> Rocky
+	600/815 ---> Sean Parker
+	620/815 ---> Sons and Lovers (film)
+	640/815 ---> Terms of Endearment
+	660/815 ---> The Deer Hunter
+	680/815 ---> The Guns of Navarone (film)
+	700/815 ---> The Lives of Others
+	720/815 ---> The Post (film)
+	740/815 ---> The Treasure of the Sierra Madre (film)
+	760/815 ---> Titanic (1997 film)
+	780/815 ---> Union Boat Club
+	800/815 ---> West Side Story (1961 film)
+125/143 ---> Social network analysis software
+	0/399 ---> 23snaps
+	20/399 ---> App.net
+	40/399 ---> Bolt (website)
+	60/399 ---> Classmates.com
+	80/399 ---> Cybersectarianism
+	100/399 ---> Dyad (sociology)
+	120/399 ---> Fitocracy
+	140/399 ---> Google+
+	160/399 ---> Houseparty (app)
+	180/399 ---> JUNG
+	200/399 ---> Me2day
+	220/399 ---> Myspace
+	240/399 ---> OpenSocial
+	260/399 ---> Pownce
+	280/399 ---> Second Life
+	300/399 ---> Social media
+	320/399 ---> Spring.me
+	340/399 ---> TikTok
+	360/399 ---> Value network
+	380/399 ---> Wretch (website)
+126/143 ---> Sociology
+	0/829 ---> A. H. Halsey
+	20/829 ---> Ancient Judaism (book)
+	40/829 ---> Arno Tausch
+	60/829 ---> British Journal of Sociology
+	80/829 ---> Civil religion
+	100/829 ---> Comparative sociology
+	120/829 ---> Criminology
+	140/829 ---> Development studies
+	160/829 ---> Economic history
+	180/829 ---> Epistemological anarchism
+	200/829 ---> Falsifiability
+	220/829 ---> Geisteswissenschaft
+	240/829 ---> Global Social Change Research Project
+	260/829 ---> Harvard University
+	280/829 ---> Holism
+	300/829 ---> Industrial relations
+	320/829 ---> Intersubjectivity
+	340/829 ---> Kinship
+	360/829 ---> Linguistic anthropology
+	380/829 ---> Macrosociology
+	400/829 ---> McGraw-Hill
+	420/829 ---> Modernism
+	440/829 ---> Non-Euclidean geometry
+	460/829 ---> Outline of social science
+	480/829 ---> Phenomenological sociology
+	500/829 ---> Political ecology
+	520/829 ---> Princeton University Press
+	540/829 ---> Quantitative research
+	560/829 ---> Reinhard Bendix
+	580/829 ---> Rules of the Sociological Method
+	600/829 ---> Sexual network
+	620/829 ---> Social construction of technology
+	640/829 ---> Social policy
+	660/829 ---> Sociolinguistics
+	680/829 ---> Sociology of literature
+	700/829 ---> Statistical survey
+	720/829 ---> Survival of the fittest
+	740/829 ---> The Logic of Modern Physics
+	760/829 ---> Theodor Adorno
+	780/829 ---> United Kingdom
+	800/829 ---> Verificationism
+	820/829 ---> William Sims Bainbridge
+127/143 ---> Soft configuration model
+	0/106 ---> Adjacency list
+	20/106 ---> Complex contagion
+	40/106 ---> Exponential family
+	60/106 ---> List of network scientists
+	80/106 ---> Percolation theory
+	100/106 ---> Transitive relation
+128/143 ---> Spatial network
+	0/132 ---> Adjacency list
+	20/132 ---> Closeness (graph theory)
+	40/132 ---> Edge (graph theory)
+	60/132 ---> ISSN (identifier)
+	80/132 ---> Multigraph
+	100/132 ---> Random graphs
+	120/132 ---> Tomaž Pisanski
+129/143 ---> Stanley Milgram
+	0/103 ---> AAAS Prize for Behavioral Science Research
+	20/103 ---> Cyrano de Bergerac (play)
+	40/103 ---> James Monroe High School (New York City)
+	60/103 ---> NDL (identifier)
+	80/103 ---> Silent Generation
+	100/103 ---> William Shatner
+130/143 ---> Steven Strogatz
+	0/97 ---> American Academy of Arts and Sciences
+	20/97 ---> DBLP (identifier)
+	40/97 ---> Joint Policy Board for Mathematics
+	60/97 ---> Neuroscience
+	80/97 ---> Small-world networks
+131/143 ---> Stochastic block model
+	0/28 ---> ArXiv (identifier)
+	20/28 ---> PMID (identifier)
+132/143 ---> Telecommunications network
+	0/263 ---> ACARS
+	20/263 ---> Biological network
+	40/263 ---> Code-division multiple access
+	60/263 ---> Dependency network
+	80/263 ---> Exponential random graph models
+	100/263 ---> History of mobile phones
+	120/263 ---> Information revolution
+	140/263 ---> List of algorithms
+	160/263 ---> NPL network
+	180/263 ---> Orbital angular momentum multiplexing
+	200/263 ---> Random graph
+	220/263 ---> Space-division multiple access
+	240/263 ---> Time-division multiplexing
+	260/263 ---> Wireless network
+133/143 ---> Topological
+	0/291 ---> Abstract algebra
+	20/291 ---> Calculus
+	40/291 ---> Compactness
+	60/291 ---> Cross-cap
+	80/291 ---> Encyclopedia of Mathematics
+	100/291 ---> Fractal dimension
+	120/291 ---> Hairy ball theorem
+	140/291 ---> John L. Kelley
+	160/291 ---> Local flatness
+	180/291 ---> Maurice Fréchet
+	200/291 ---> Open set
+	220/291 ---> Projective plane
+	240/291 ---> Set union
+	260/291 ---> Theory of computation
+	280/291 ---> Uniform space
+134/143 ---> Transitive relation
+	0/77 ---> Amartya Sen
+	20/77 ---> Gunther Schmidt
+	40/77 ---> Odd number
+	60/77 ---> Subset
+135/143 ---> Transport network
+	0/297 ---> Adjacency list
+	20/297 ---> Biological network
+	40/297 ---> Bus turnout
+	60/297 ---> Commodity
+	80/297 ---> Distance (graph theory)
+	100/297 ---> Farebox recovery ratio
+	120/297 ---> Heavy rail
+	140/297 ---> Integrated ticketing
+	160/297 ---> List of smart cards
+	180/297 ---> Neighbourhood (graph theory)
+	200/297 ---> Passenger information system
+	220/297 ---> Pulled rickshaw
+	240/297 ---> Scale-free network
+	260/297 ---> Street network
+	280/297 ---> Transit pass
+136/143 ---> Triadic closure
+	0/70 ---> Adolescent cliques
+	20/70 ---> Fritz Heider
+	40/70 ---> Social commerce
+	60/70 ---> Sociology
+137/143 ---> Trophic coherence
+	0/32 ---> ArXiv (identifier)
+	20/32 ---> Metabolic networks
+138/143 ---> Vertex (graph theory)
+	0/35 ---> Adjacency (graph theory)
+	20/35 ---> MathWorld
+139/143 ---> Watts and Strogatz model
+	0/114 ---> Adjacency list
+	20/114 ---> Closeness (graph theory)
+	40/114 ---> Efficiency (network science)
+	60/114 ---> Link analysis
+	80/114 ---> Path (graph theory)
+	100/114 ---> Social network analysis
+140/143 ---> Weighted network
+	0/88 ---> A. Barrat
+	20/88 ---> Dijkstra's distance algorithm
+	40/88 ---> Network (mathematics)
+	60/88 ---> Social invisibility
+	80/88 ---> Tribe (internet)
+141/143 ---> World Wide Web
+	0/682 ---> ARPANET
+	20/682 ---> Art blog
+	40/682 ---> Blogosphere
+	60/682 ---> Charles K. Kao
+	80/682 ---> Communications satellite
+	100/682 ---> Cybercrime
+	120/682 ---> Description logic
+	140/682 ---> Dynamic content
+	160/682 ---> Equal opportunity
+	180/682 ---> Finjan
+	200/682 ---> Google Chrome
+	220/682 ---> Harold Hopkins (physicist)
+	240/682 ---> History of web syndication technology
+	260/682 ---> Implementation
+	280/682 ---> Internet Engineering Task Force
+	300/682 ---> Jun-ichi Nishizawa
+	320/682 ---> Lists of websites
+	340/682 ---> McAfee
+	360/682 ---> Multimedia
+	380/682 ---> News & Observer
+	400/682 ---> Optical telegraphy
+	420/682 ---> Phono-semantic matching
+	440/682 ---> Project Zero (Google)
+	460/682 ---> Real-time computing
+	480/682 ---> SPARQL
+	500/682 ---> Semantic computing
+	520/682 ---> Slashdot effect
+	540/682 ---> Structured document
+	560/682 ---> Teleprinter
+	580/682 ---> Twitter
+	600/682 ---> User-generated content
+	620/682 ---> Walter Houser Brattain
+	640/682 ---> Web development tools
+	660/682 ---> Webgraph
+	680/682 ---> X Window System
+142/143 ---> Yule-Simon distribution
+	0/222 ---> ARGUS distribution
+	20/222 ---> Bivariate von Mises distribution
+	40/222 ---> Dirac delta function
+	60/222 ---> Fisher's z-distribution
+	80/222 ---> Gumbel distribution
+	100/222 ---> Irwin–Hall distribution
+	120/222 ---> Matrix-exponential distribution
+	140/222 ---> Negative multinomial distribution
+	160/222 ---> Preferential attachment
+	180/222 ---> Shifted log-logistic distribution
+	200/222 ---> U-quadratic distribution
+	220/222 ---> Zipf's law
+Ego Netwrok: Complex network
+	original: |V|=14632 |E|=27589
+	truncated: |V|=3800 |E|=16757
+1. Degree Centrality
+	out degree: 142 ... Normalized: 0.03737825743616741
+	in degree: 53 ... Normalized: 0.013951039747301922
+2. Betweenness Centrality
+	betweenness: 369568 ... Normalized: 0.13541059049405696
+3. Closeness Centrality
+	closeness Centrality: 0.017259352971394047
+	closeness Centrality: 0.33753887161261664
+Downloading Project Jupyter
+0/65 ---> ACM Software System Award
+	0/177 ---> Adele Goldberg (computer scientist)
+	20/177 ---> Charles M. Geschke
+	40/177 ---> Donald Chamberlin
+	60/177 ---> Goetz Graefe
+	80/177 ---> Jim Gray (computer scientist)
+	100/177 ---> Machinery
+	120/177 ---> Paul Mockapetris
+	140/177 ---> Robert Taylor (computer scientist)
+	160/177 ---> Tcl/Tk
+1/65 ---> Alfred P. Sloan Foundation
+	0/38 ---> 1000000000 (number)
+	20/38 ---> Nonprofit organization
+2/65 ---> Amazon (company)
+	0/972 ---> .ae
+	20/972 ---> 8-track tape
+	40/972 ---> Adobe RoboHelp
+	60/972 ---> Amazon's Best Books of the Year
+	80/972 ---> Amazon Elastic Block Store
+	100/972 ---> Amazon Machine Image
+	120/972 ---> Amazon SageMaker
+	140/972 ---> Ansys
+	160/972 ---> Australian Recording Industry Association
+	180/972 ---> Billboard (magazine)
+	200/972 ---> Booktrack
+	220/972 ---> CBS Interactive
+	240/972 ---> Cassette single
+	260/972 ---> Comcast
+	280/972 ---> Copart
+	300/972 ---> Dexcom
+	320/972 ---> E-book
+	340/972 ---> EnTourage eDGe
+	360/972 ---> Federal Aviation Administration
+	380/972 ---> Fortune 1000
+	400/972 ---> Ghost singer
+	420/972 ---> Green Lantern
+	440/972 ---> Hot Press
+	460/972 ---> InFocus
+	480/972 ---> Irish Singles Chart
+	500/972 ---> Kindle Direct Publishing
+	520/972 ---> Lauwin-Planque
+	540/972 ---> List of companies based in Seattle
+	560/972 ---> Lucifox
+	580/972 ---> Meituan-Dianping
+	600/972 ---> Motorola Solutions
+	620/972 ---> Musica e dischi
+	640/972 ---> Netflix
+	660/972 ---> Online marketplace
+	680/972 ---> Palm, Inc.
+	700/972 ---> Popstars
+	720/972 ---> Q (magazine)
+	740/972 ---> Reflexive Entertainment
+	760/972 ---> S&P 100
+	780/972 ---> Self-driving cars
+	800/972 ---> Smart doorbell
+	820/972 ---> Sports equipment
+	840/972 ---> Tablet computer
+	860/972 ---> The New York Times
+	880/972 ---> Tour promoter
+	900/972 ---> Uber
+	920/972 ---> Verizon Media
+	940/972 ---> Wendell P. Weeks
+	960/972 ---> Xcel Energy
+3/65 ---> Amazon SageMaker
+	0/184 ---> 1-Click
+	20/184 ---> Amazon Digital Game Store
+	40/184 ---> Amazon Lab126
+	60/184 ---> Amazon Rekognition
+	80/184 ---> Askville
+	100/184 ---> Doppler (building)
+	120/184 ---> Kindle Direct Publishing
+	140/184 ---> Paul Davis (programmer)
+	160/184 ---> Software as a service
+	180/184 ---> Word2vec
+4/65 ---> Association for Computing Machinery
+	0/216 ---> 501(c) organization
+	20/216 ---> ACM SIGACT
+	40/216 ---> Alan D. Berenbaum Distinguished Service Award
+	60/216 ---> Computers in Entertainment
+	80/216 ---> Gordon Bell Prize
+	100/216 ---> International Symposium on Computer Architecture
+	120/216 ---> LCCN (identifier)
+	140/216 ---> Paris Kanellakis Award
+	160/216 ---> SIGGRAPH
+	180/216 ---> Special Interest Group on Design Automation
+	200/216 ---> UCLA
+5/65 ---> Binder Project
+	0/4 ---> IPython
+6/65 ---> Bootstrap (front-end framework)
+	0/51 ---> Apache License 2.0
+	20/51 ---> Internet Explorer
+	40/51 ---> Software developer
+7/65 ---> Cloud computing
+	0/414 ---> ARPANET
+	20/414 ---> Application programming interface
+	40/414 ---> Boost (C++ libraries)
+	60/414 ---> Cilk
+	80/414 ---> Cloud storage
+	100/414 ---> Computer programming
+	120/414 ---> Desktop as a service
+	140/414 ---> Edge server
+	160/414 ---> GPUOpen
+	180/414 ---> HPX
+	200/414 ---> InfoWorld
+	220/414 ---> Linux distribution
+	240/414 ---> Mobile agent
+	260/414 ---> Nimbus (cloud computing)
+	280/414 ---> Oracle Cloud
+	300/414 ---> Pipeline (computing)
+	320/414 ---> Research and Development
+	340/414 ---> Server (computing)
+	360/414 ---> Speculative multithreading
+	380/414 ---> Threading Building Blocks
+	400/414 ---> WaveMaker
+8/65 ---> Colaboratory
+9/65 ---> Collaboratory
+	0/76 ---> Adam Somlai-Fischer
+	20/76 ---> Data set
+	40/76 ---> Information society
+	60/76 ---> System
+10/65 ---> Fernando Pérez (software developer)
+	0/20 ---> ACM Software System Award
+11/65 ---> First observation of gravitational waves
+	0/456 ---> (164121) 2003 YT1
+	20/456 ---> 2015 RR245
+	40/456 ---> 469219 Kamoʻoalewa
+	60/456 ---> Akatsuki (spacecraft)
+	80/456 ---> Bernard Schutz
+	100/456 ---> CRISPR gene editing
+	120/456 ---> Credible interval
+	140/456 ---> Elementary particle
+	160/456 ---> GN-z11
+	180/456 ---> General relativity
+	200/456 ---> HD 219134
+	220/456 ---> Higgs boson
+	240/456 ---> Joan Centrella
+	260/456 ---> KELT-9b
+	280/456 ---> Light year
+	300/456 ---> MiniGrail
+	320/456 ---> OSIRIS-REx
+	340/456 ---> Planck–Einstein relation
+	360/456 ---> Quantum fluctuation
+	380/456 ---> Science (magazine)
+	400/456 ---> Stellar black hole
+	420/456 ---> The Astrophysical Journal Letters
+	440/456 ---> Virgo interferometer
+12/65 ---> Free Software Foundation Award for the Advancement of Free Software
+	0/127 ---> 2004 Indian Ocean earthquake
+	20/127 ---> Defective by Design
+	40/127 ---> Free and Open Source Software Outreach Program for Women
+	60/127 ---> Guido van Rossum
+	80/127 ---> Linux kernel
+	100/127 ---> Public Lab
+	120/127 ---> Vernor Vinge
+13/65 ---> GNU Octave
+	0/363 ---> 3DSlicer
+	20/363 ---> Back-of-the-envelope calculation
+	40/363 ---> Comment (computer programming)
+	60/363 ---> Creative Commons license
+	80/363 ---> Electric (software)
+	100/363 ---> Free Software Foundation of India
+	120/363 ---> GNU Core Utilities
+	140/363 ---> GNU variants
+	160/363 ---> Hardware restriction
+	180/363 ---> José E. Marchesi
+	200/363 ---> List of free and open-source iOS applications
+	220/363 ---> Loïc Dachary
+	240/363 ---> Mozilla Public License
+	260/363 ---> OpenGL
+	280/363 ---> Python License
+	300/363 ---> SageMath
+	320/363 ---> Software release life cycle
+	340/363 ---> Unistat
+	360/363 ---> XLispStat
+14/65 ---> Galileo Galilei
+	0/811 ---> 2dF Galaxy Redshift Survey
+	20/811 ---> Albert Einstein
+	40/811 ---> André-Marie Ampère
+	60/811 ---> Astronomy
+	80/811 ---> Bel (unit)
+	100/811 ---> Cambridge University Press
+	120/811 ---> Christiaan Huygens
+	140/811 ---> Constructive empiricism
+	160/811 ---> Curie (unit)
+	180/811 ---> Descriptive research
+	200/811 ---> Electroweak epoch
+	220/811 ---> Evangelista Torricelli
+	240/811 ---> Florence
+	260/811 ---> Galaxy cluster
+	280/811 ---> Galileo (Indigo Girls song)
+	300/811 ---> Gilbert (unit)
+	320/811 ---> Hans Lippershey
+	340/811 ---> Hot dark matter
+	360/811 ---> Indigo Girls
+	380/811 ---> Israel
+	400/811 ---> John L. Heilbron
+	420/811 ---> Kepler's laws of planetary motion
+	440/811 ---> Libration
+	460/811 ---> Lutenist
+	480/811 ---> Maxwell (unit)
+	500/811 ---> NDL (identifier)
+	520/811 ---> Niccolò Lorini
+	540/811 ---> Open Library
+	560/811 ---> Philosophical analysis
+	580/811 ---> Physical cosmology
+	600/811 ---> Pope Benedict XIV
+	620/811 ---> RERO (identifier)
+	640/811 ---> Richard C. Tolman
+	660/811 ---> Saturn
+	680/811 ---> Shape of the universe
+	700/811 ---> Speed of light
+	720/811 ---> Surveying
+	740/811 ---> Timeline of microscope technology
+	760/811 ---> United States customary units
+	780/811 ---> Vincenzo Galilei
+	800/811 ---> William Gilbert (astronomer)
+15/65 ---> GitHub
+	0/381 ---> .NET
+	20/381 ---> Atlassian
+	40/381 ---> Censorship of GitHub
+	60/381 ---> Compulsion Games
+	80/381 ---> Distributed denial-of-service
+	100/381 ---> Geospatial analysis
+	120/381 ---> ILoo
+	140/381 ---> John W. Stanton
+	160/381 ---> Mascot
+	180/381 ---> Microsoft Egypt
+	200/381 ---> Microsoft Surface Laptop Go
+	220/381 ---> Nat Friedman
+	240/381 ---> Outlook.com
+	260/381 ---> Powerset (company)
+	280/381 ---> Ruby (programming language)
+	300/381 ---> Software development
+	320/381 ---> Task management
+	340/381 ---> UBlock Origin
+	360/381 ---> Wiki
+	380/381 ---> ZeniMax Media
+16/65 ---> Google
+	0/895 ---> 111 Eighth Avenue
+	20/895 ---> Akamai Technologies
+	40/895 ---> Andrew Conrad
+	60/895 ---> Annie Leibovitz
+	80/895 ---> Audience (company)
+	100/895 ---> BlackBerry Mobile
+	120/895 ---> CBS Interactive
+	140/895 ---> Chief Operating Officer
+	160/895 ---> Claudio Sánchez-Albornoz
+	180/895 ---> Cypress Semiconductor
+	200/895 ---> Don't be evil
+	220/895 ---> Engadget
+	240/895 ---> Fondo de Cultura Económica
+	260/895 ---> Gerrit (software)
+	280/895 ---> Google Analytics
+	300/895 ---> Google Cloud Platform
+	320/895 ---> Google Energy
+	340/895 ---> Google I/O
+	360/895 ---> Google PageSpeed Tools
+	380/895 ---> Google Primer
+	400/895 ---> Google Talk
+	420/895 ---> Google logo
+	440/895 ---> HTC Dream
+	460/895 ---> IBM cloud computing
+	480/895 ---> Intel
+	500/895 ---> Jigsaw (company)
+	520/895 ---> Larry Brilliant
+	540/895 ---> London
+	560/895 ---> Mashable
+	580/895 ---> Mobile device
+	600/895 ---> National Autonomous University of Mexico
+	620/895 ---> Nubia Technology
+	640/895 ---> PC Magazine
+	660/895 ---> Pig Latin
+	680/895 ---> Project Sunroof
+	700/895 ---> Reddit
+	720/895 ---> SAP
+	740/895 ---> Seattle, Washington
+	760/895 ---> Software
+	780/895 ---> Swedish Chef
+	800/895 ---> Telus
+	820/895 ---> Ticker symbol
+	840/895 ---> United States Department of Justice
+	860/895 ---> Walton Micro-Tech Corporation
+	880/895 ---> Wired (website)
+17/65 ---> Google Chrome
+	0/781 ---> 111 Eighth Avenue
+	20/781 ---> Aarhus
+	40/781 ---> Alan Eustace
+	60/781 ---> Ann Mather
+	80/781 ---> Beaker (web browser)
+	100/781 ---> C++
+	120/781 ---> Chrome OS
+	140/781 ---> CompuServe
+	160/781 ---> Debian
+	180/781 ---> Ecma International
+	200/781 ---> Firefox
+	220/781 ---> Gayglers
+	240/781 ---> Google Ad Grants
+	260/781 ---> Google Charts
+	280/781 ---> Google Docs
+	300/781 ---> Google Hummingbird
+	320/781 ---> Google Nexus
+	340/781 ---> Google Primer
+	360/781 ---> Google Talk
+	380/781 ---> Gopher (protocol)
+	400/781 ---> HyTelnet
+	420/781 ---> IOS 9
+	440/781 ---> Internet Explorer 6
+	460/781 ---> KidZui
+	480/781 ---> List of rich Internet application frameworks
+	500/781 ---> MenuBox
+	520/781 ---> Mozilla Prism
+	540/781 ---> Netscape Navigator 9
+	560/781 ---> OpenSocial
+	580/781 ---> Phishing
+	600/781 ---> Pwn2Own
+	620/781 ---> Rockmelt
+	640/781 ---> Sergey Brin
+	660/781 ---> SproutCore
+	680/781 ---> Telnet
+	700/781 ---> Tyrannosaurus
+	720/781 ---> Vault 7
+	740/781 ---> WebPositive
+	760/781 ---> Windows Vista
+	780/781 ---> Zero day exploit
+18/65 ---> Google Drive
+	0/441 ---> .MP4 versus .M4A
+	20/441 ---> Android (operating system)
+	40/441 ---> Baidu Wangpan
+	60/441 ---> Chromium (web browser)
+	80/441 ---> Dragonfly (search engine)
+	100/441 ---> GameFront
+	120/441 ---> Google App Engine
+	140/441 ---> Google Cloud Print
+	160/441 ---> Google Finance
+	180/441 ---> Google Lens
+	200/441 ---> Google Photos
+	220/441 ---> Google Sites
+	240/441 ---> Google Website Optimizer
+	260/441 ---> I-drive
+	280/441 ---> Kubernetes
+	300/441 ---> Matt Cutts
+	320/441 ---> Nest Protect
+	340/441 ---> Pages (iWork)
+	360/441 ---> RapidShare
+	380/441 ---> Software release life cycle
+	400/441 ---> The Guardian
+	420/441 ---> Wear OS
+	440/441 ---> ZumoDrive
+19/65 ---> Gordon and Betty Moore Foundation
+	0/33 ---> All Sky Automated Survey for SuperNovae
+	20/33 ---> Numba
+20/65 ---> HTML
+	0/537 ---> 360 Secure Browser
+	20/537 ---> Arena (web browser)
+	40/537 ---> Browser synchronization
+	60/537 ---> Common Logic
+	80/537 ---> Database
+	100/537 ---> Dynamic web page
+	120/537 ---> File Transfer Protocol
+	140/537 ---> Google
+	160/537 ---> HTTP/1.1 Upgrade header
+	180/537 ---> HTTP pipelining
+	200/537 ---> IBM Home Page Reader
+	220/537 ---> Internet Control Message Protocol for IPv6
+	240/537 ---> Kazehakase
+	260/537 ---> List of Apache modules
+	280/537 ---> Memex
+	300/537 ---> Mod wsgi
+	320/537 ---> OmniWeb
+	340/537 ---> Post Office Protocol
+	360/537 ---> Representational state transfer
+	380/537 ---> Scalable Vector Graphics
+	400/537 ---> Semantic triple
+	420/537 ---> Skyfire (company)
+	440/537 ---> ThunderHawk
+	460/537 ---> Upstream server
+	480/537 ---> WebGL
+	500/537 ---> Web cache
+	520/537 ---> Wi-Fi
+21/65 ---> Haskell (programming language)
+	0/229 ---> "Hello, World!" program
+	20/229 ---> C++
+	40/229 ---> Cryptography
+	60/229 ---> Filename extension
+	80/229 ---> Gofer (programming language)
+	100/229 ---> International Conference on Functional Programming
+	120/229 ---> Lisp (programming language)
+	140/229 ---> Open standard
+	160/229 ---> Programming language implementation
+	180/229 ---> SISAL
+	200/229 ---> Static type
+	220/229 ---> Visual Basic .NET
+22/65 ---> Homage (arts)
+	0/125 ---> Academic dishonesty
+	20/125 ---> Collage
+	40/125 ---> Film adaptation
+	60/125 ---> Joke theft
+	80/125 ---> Parody film
+	100/125 ---> Replicas of Michelangelo's David
+	120/125 ---> Trope (literature)
+23/65 ---> IPython
+	0/58 ---> Alfred P. Sloan Foundation
+	20/58 ---> LaTeX
+	40/58 ---> R (programming language)
+24/65 ---> Interactive computing
+	0/34 ---> Advanced Research Projects Agency
+	20/34 ---> Ivan Sutherland
+25/65 ---> JQuery
+	0/426 ---> .NET Framework
+	20/426 ---> Android software development
+	40/426 ---> Bottle (web framework)
+	60/426 ---> Chaplin.js
+	80/426 ---> Content delivery network
+	100/426 ---> Dynamic HTML
+	120/426 ---> File size
+	140/426 ---> Google Closure Tools
+	160/426 ---> ISBN (identifier)
+	180/426 ---> JWt (Java web toolkit)
+	200/426 ---> LessTif
+	220/426 ---> Mason (Perl)
+	240/426 ---> MonoGame
+	260/426 ---> OpenGL User Interface Library
+	280/426 ---> Pop PHP Framework
+	300/426 ---> Quixote (web framework)
+	320/426 ---> Scott Isaacs
+	340/426 ---> Spring Framework
+	360/426 ---> Text box
+	380/426 ---> Vue.js
+	400/426 ---> Wt (web toolkit)
+	420/426 ---> Yesod (web framework)
+26/65 ---> JSON
+	0/280 ---> A Dream of Passion
+	20/280 ---> Alexandria
+	40/280 ---> Argus (Argonaut)
+	60/280 ---> Cadmus
+	80/280 ---> Creusa (daughter of Creon)
+	100/280 ---> Eros (mythology)
+	120/280 ---> Harpy
+	140/280 ---> Jason (disambiguation)
+	160/280 ---> Louvre
+	180/280 ---> Medea in Corinto
+	200/280 ---> Oedipus
+	220/280 ---> Poseidon
+	240/280 ---> Sirenum scopuli
+	260/280 ---> Thrace
+27/65 ---> Julia (programming language)
+	0/524 ---> 32-bit
+	20/524 ---> Ahead-of-time compilation
+	40/524 ---> Artificial intelligence
+	60/524 ---> COBOL
+	80/524 ---> Comparison of free software for audio
+	100/524 ---> Copyleft
+	120/524 ---> Digital rights management
+	140/524 ---> Fast Fourier transform
+	160/524 ---> Free and open-source software
+	180/524 ---> General Public Licence
+	200/524 ---> HTTP
+	220/524 ---> Interoperability
+	240/524 ---> LIMDEP
+	260/524 ---> List of free software project directories
+	280/524 ---> MINOS (optimization software)
+	300/524 ---> Message Passing Interface
+	320/524 ---> National Institute for Space Research
+	340/524 ---> Open-source software development
+	360/524 ---> Parallel computing
+	380/524 ---> Proprietary software
+	400/524 ---> Raspberry Pi Foundation
+	420/524 ---> SPSS
+	440/524 ---> SigmaXL
+	460/524 ---> SpiNNaker
+	480/524 ---> The Free Software Definition
+	500/524 ---> WORHP
+	520/524 ---> Yoshua Bengio
+28/65 ---> Jupyter
+	0/696 ---> 2009 Jupiter impact event
+	20/696 ---> Amalthea (moon)
+	40/696 ---> Ariel (moon)
+	60/696 ---> Babylon
+	80/696 ---> Cassini–Huygens
+	100/696 ---> Cis-Neptunian object
+	120/696 ---> Cyclotron
+	140/696 ---> Disrupted planet
+	160/696 ---> Equator
+	180/696 ---> Exploration of Io
+	200/696 ---> Formation and evolution of the Solar System
+	220/696 ---> Geometric albedo
+	240/696 ---> HIP 11915 b
+	260/696 ---> Hubble Space Telescope
+	280/696 ---> Interplanetary medium
+	300/696 ---> Jupiter
+	320/696 ---> Jupiter LXVI
+	340/696 ---> Km
+	360/696 ---> List of Jupiter trojans (Trojan camp)
+	380/696 ---> List of minor planets: 1–1000
+	400/696 ---> Magnetosphere
+	420/696 ---> Milky Way
+	440/696 ---> NARA (identifier)
+	460/696 ---> New Horizons
+	480/696 ---> Orbital speed
+	500/696 ---> Perihelion
+	520/696 ---> Pioneer program
+	540/696 ---> Protoplanetary disk
+	560/696 ---> Rotation
+	580/696 ---> Scale height
+	600/696 ---> Solar radiation
+	620/696 ---> Sulfur
+	640/696 ---> Theia (planet)
+	660/696 ---> Turbulence
+	680/696 ---> Vorticity
+29/65 ---> LIGO
+	0/323 ---> 2019–20 La Liga
+	20/323 ---> Algeciras
+	40/323 ---> Bilbao
+	60/323 ---> Castellón de la Plana
+	80/323 ---> Covelo, Pontevedra
+	100/323 ---> European Fisheries Control Agency
+	120/323 ---> Galician Nationalist Bloc
+	140/323 ---> Iván Ferreiro
+	160/323 ---> Lisbon
+	180/323 ---> Metro International
+	200/323 ---> Navia, Vigo
+	220/323 ---> Peninsular War
+	240/323 ---> Provinces of Spain
+	260/323 ---> Saiáns, Vigo
+	280/323 ---> Soutomaior
+	300/323 ---> University of Santiago de Compostela
+	320/323 ---> WorldCat Identities (identifier)
+30/65 ---> LaTeX
+	0/298 ---> ABBYY FineReader
+	20/298 ---> ArXiv (identifier)
+	40/298 ---> Braille e-book
+	60/298 ---> ConTeXt
+	80/298 ---> E-book lending
+	100/298 ---> Free software
+	120/298 ---> Hyperlink
+	140/298 ---> Kobo Inc.
+	160/298 ---> LuaTeX
+	180/298 ---> MuPDF
+	200/298 ---> PSTricks
+	220/298 ---> QuarkXPress
+	240/298 ---> Separation of presentation and content
+	260/298 ---> TeTeX
+	280/298 ---> Voiceless velar fricative
+31/65 ---> Language-agnostic
+	0/9 ---> Bilingual (disambiguation)
+32/65 ---> List of free and open-source software packages
+	0/649 ---> .NET Framework
+	20/649 ---> Apache Geronimo
+	40/649 ---> Bitwarden
+	60/649 ---> CephFS
+	80/649 ---> Community of practice
+	100/649 ---> Computer game
+	120/649 ---> DVD Flick
+	140/649 ---> Doxygen
+	160/649 ---> Encryption software
+	180/649 ---> Firestarter (firewall)
+	200/649 ---> Free and open-source graphics device driver
+	220/649 ---> GNU Queue
+	240/649 ---> Gramps
+	260/649 ---> ISC license
+	280/649 ---> JasperSoft
+	300/649 ---> KiCad
+	320/649 ---> LimeSurvey
+	340/649 ---> List of freeware
+	360/649 ---> M0n0wall
+	380/649 ---> Mitro
+	400/649 ---> NetKernel
+	420/649 ---> Open-source license
+	440/649 ---> OpenTTD
+	460/649 ---> ParaView
+	480/649 ---> Proprietary firmware
+	500/649 ---> RSSOwl
+	520/649 ---> SWAD (software)
+	540/649 ---> Signal (software)
+	560/649 ---> Synergy (software)
+	580/649 ---> Tor Browser
+	600/649 ---> VLMC
+	620/649 ---> Wave Accounting
+	640/649 ---> Xnee
+33/65 ---> Maple (software)
+	0/318 ---> .NET Framework
+	20/318 ---> Burning Ship fractal
+	40/318 ---> Comparison of statistical packages
+	60/318 ---> Differential algebraic equation
+	80/318 ---> Flag of Canada
+	100/318 ---> GAUSS (software)
+	120/318 ---> IGraph
+	140/318 ---> KANT (software)
+	160/318 ---> ML.NET
+	180/318 ---> Mathematical visualization
+	200/318 ---> Neural Designer
+	220/318 ---> Partial differential equation
+	240/318 ---> Revolution Analytics
+	260/318 ---> SigmaXL
+	280/318 ---> SymPy
+	300/318 ---> Visual Basic
+34/65 ---> Markdown
+	0/123 ---> APL (programming language)
+	20/123 ---> Convention (norm)
+	40/123 ---> HyTime
+	60/123 ---> Media type
+	80/123 ---> PresentationML
+	100/123 ---> Superset
+	120/123 ---> XHTML
+35/65 ---> MathJax
+	0/71 ---> AMS-LaTeX
+	20/71 ---> Elsevier
+	40/71 ---> MathOverflow
+	60/71 ---> Society for Industrial and Applied Mathematics
+36/65 ---> Mathematica
+	0/428 ---> A Greek–English Lexicon
+	20/428 ---> Analytic number theory
+	40/428 ---> Babylonia
+	60/428 ---> Category theory
+	80/428 ---> Conjecture
+	100/428 ---> Differential equation
+	120/428 ---> Equation
+	140/428 ---> Formalism (mathematics)
+	160/428 ---> Giuseppe Peano
+	180/428 ---> Hipparchus of Nicaea
+	200/428 ---> International Mathematical Olympiad
+	220/428 ---> Law of excluded middle
+	240/428 ---> Mathematical and theoretical biology
+	260/428 ---> Mathematics (disambiguation)
+	280/428 ---> Multilinear algebra
+	300/428 ---> Open problem
+	320/428 ---> Pi
+	340/428 ---> Pythagoreans
+	360/428 ---> Riemann hypothesis
+	380/428 ---> Simplicity
+	400/428 ---> Tensor calculus
+	420/428 ---> Vector space
+37/65 ---> Microsoft
+	0/841 ---> .NET Foundation
+	20/841 ---> Activision Blizzard
+	40/841 ---> AltspaceVR
+	60/841 ---> Asus
+	80/841 ---> Bill Gates
+	100/841 ---> ByteDance
+	120/841 ---> Charter Communications
+	140/841 ---> Computer network
+	160/841 ---> Cypress Semiconductor
+	180/841 ---> Dow Inc.
+	200/841 ---> ExxonMobil
+	220/841 ---> Fortune 500
+	240/841 ---> Google News
+	260/841 ---> Hewlett Packard Enterprise Networking
+	280/841 ---> ILoo
+	300/841 ---> Interlink Electronics
+	320/841 ---> Joe Belfiore
+	340/841 ---> Kraft Heinz
+	360/841 ---> List of Microsoft software
+	380/841 ---> MSN
+	400/841 ---> MercadoLibre
+	420/841 ---> Microsoft Development Center Norway
+	440/841 ---> Microsoft Office 2007
+	460/841 ---> Microsoft Theater
+	480/841 ---> Mojang
+	500/841 ---> NXP Semiconductors
+	520/841 ---> Nvidia
+	540/841 ---> PC Magazine
+	560/841 ---> Phil Radford
+	580/841 ---> Press Play (company)
+	600/841 ---> Razer Inc.
+	620/841 ---> Salesforce.com
+	640/841 ---> Share (finance)
+	660/841 ---> Sony
+	680/841 ---> SwiftKey
+	700/841 ---> The Guardian
+	720/841 ---> Trip.com
+	740/841 ---> United States district court
+	760/841 ---> Visio Corporation
+	780/841 ---> Windows 1.0
+	800/841 ---> Windows Server 2003
+	820/841 ---> Xbox Live
+	840/841 ---> Zune
+38/65 ---> Moons of Jupiter
+	0/486 ---> (136617) 1994 CC
+	20/486 ---> 22 Kalliope
+	40/486 ---> 762 Pulcova
+	60/486 ---> Arche (moon)
+	80/486 ---> Carpo (moon)
+	100/486 ---> Cyllene (moon)
+	120/486 ---> Dysnomia (moon)
+	140/486 ---> Exploration of Jupiter
+	160/486 ---> Giant-impact hypothesis
+	180/486 ---> Historical models of the Solar System
+	200/486 ---> Interstellar medium
+	220/486 ---> Jupiter LIX
+	240/486 ---> Kilogram
+	260/486 ---> List of Solar System objects by radius
+	280/486 ---> Local Sheet
+	300/486 ---> Minor planet
+	320/486 ---> Nebular hypothesis
+	340/486 ---> Outline of Jupiter
+	360/486 ---> Planet
+	380/486 ---> Rings of Chariklo
+	400/486 ---> S/2010 J 2
+	420/486 ---> Scattered disc
+	440/486 ---> Spheroid
+	460/486 ---> Timeline of discovery of Solar System planets and their moons
+	480/486 ---> Vulcan (hypothetical planet)
+39/65 ---> Nonprofit organization
+	0/172 ---> .com
+	20/172 ---> Association without lucrative purpose
+	40/172 ---> Charity evaluators
+	60/172 ---> Double bottom line
+	80/172 ---> GND (identifier)
+	100/172 ---> Japan Times
+	120/172 ---> Non-commercial
+	140/172 ---> SSRN
+	160/172 ---> United States non-profit laws
+40/65 ---> Notebook interface
+	0/32 ---> Apache License
+	20/32 ---> Notebook
+41/65 ---> Open-source software
+	0/518 ---> Aaron Swartz
+	20/518 ---> Artificial scarcity
+	40/518 ---> Business of webcomics
+	60/518 ---> Comparison of free and open-source software licenses
+	80/518 ---> Copyright alternatives
+	100/518 ---> Desktop environment
+	120/518 ---> Eazel
+	140/518 ---> Floating licensing
+	160/518 ---> GIMP
+	180/518 ---> Homebrew (video games)
+	200/518 ---> InfoWorld
+	220/518 ---> Libertarian perspectives on intellectual property
+	240/518 ---> List of free software project directories
+	260/518 ---> Malware
+	280/518 ---> Mozilla Firefox
+	300/518 ---> O'Reilly Media
+	320/518 ---> Open-source software development
+	340/518 ---> Open Web Foundation
+	360/518 ---> Open source ecology
+	380/518 ---> Patentleft
+	400/518 ---> Press release
+	420/518 ---> RiP!: A Remix Manifesto
+	440/518 ---> Shareware
+	460/518 ---> Software protection dongle
+	480/518 ---> The Open Source Definition
+	500/518 ---> Vernacular photography
+42/65 ---> Open standard
+	0/248 ---> ANSI
+	20/248 ---> Citizen science
+	40/248 ---> Distributed Management Task Force
+	60/248 ---> Free content
+	80/248 ---> IOSN
+	100/248 ---> Ken Krechmer
+	120/248 ---> Open-door academic policy
+	140/248 ---> Open Rights Group
+	160/248 ---> Open music model
+	180/248 ---> Peer-to-peer lending
+	200/248 ---> Ridesharing company
+	220/248 ---> The New York Times
+	240/248 ---> Web Accessibility Initiative
+43/65 ---> PDF
+	0/792 ---> 110 film
+	20/792 ---> Adobe FrameMaker
+	40/792 ---> Apple Inc.
+	60/792 ---> Booktrack
+	80/792 ---> Character encoding
+	100/792 ---> Computable Document Format
+	120/792 ---> Display PostScript
+	140/792 ---> Elonex ebook
+	160/792 ---> FTAM
+	180/792 ---> Fuel oil
+	200/792 ---> Hanlin eReader
+	220/792 ---> IS-IS
+	240/792 ---> ISO/IEC 19770
+	260/792 ---> ISO/IEC 7813
+	280/792 ---> ISO/IEC 8859-8
+	300/792 ---> ISO 10303-28
+	320/792 ---> ISO 14031
+	340/792 ---> ISO 16750
+	360/792 ---> ISO 2145
+	380/792 ---> ISO 29110
+	400/792 ---> ISO 3166-2
+	420/792 ---> ISO 5428
+	440/792 ---> ISO 7001
+	460/792 ---> ISO 898
+	480/792 ---> International Standard Audiovisual Number
+	500/792 ---> JPEG 2000
+	520/792 ---> Kunrei-shiki romanization
+	540/792 ---> Lossless
+	560/792 ---> Matrix (mathematics)
+	580/792 ---> Netpbm format
+	600/792 ---> Open Source Development Labs
+	620/792 ---> PDFedit
+	640/792 ---> Pointer (computer programming)
+	660/792 ---> QR code
+	680/792 ---> Requirements engineering
+	700/792 ---> Screen reader
+	720/792 ---> Standard Generalized Markup Language
+	740/792 ---> Topic map
+	760/792 ---> Wayback Machine
+	780/792 ---> XML Metadata Interchange
+44/65 ---> Paul Romer
+	0/194 ---> 2018 Nobel Peace Prize
+	20/194 ---> Christopher A. Sims
+	40/194 ---> Esther Duflo
+	60/194 ---> Honduras
+	80/194 ---> José Scheinkman
+	100/194 ---> Michael Kremer
+	120/194 ---> Nobelprize.org
+	140/194 ---> Robert B. Wilson
+	160/194 ---> Stanford University
+	180/194 ---> United States
+45/65 ---> Presentation slide
+	0/72 ---> .pdf
+	20/72 ---> Free software
+	40/72 ---> OS X El Capitan
+	60/72 ---> SlideShare
+46/65 ---> Python (programming language)
+	0/606 ---> "Hello, World!" program
+	20/606 ---> Amoeba (operating system)
+	40/606 ---> Associative array
+	60/606 ---> Boolean value
+	80/606 ---> Capella (notation program)
+	100/606 ---> Comparison of free software for audio
+	120/606 ---> Coroutine
+	140/606 ---> Django (web framework)
+	160/606 ---> Exponentiation
+	180/606 ---> Fortran
+	200/606 ---> GPT-3
+	220/606 ---> Gratis versus libre
+	240/606 ---> ISBN (identifier)
+	260/606 ---> IronPython
+	280/606 ---> License proliferation
+	300/606 ---> List of integrated development environments for Python
+	320/606 ---> Matplotlib
+	340/606 ---> Modo (software)
+	360/606 ---> Netherlands
+	380/606 ---> Object-oriented programming
+	400/606 ---> Oracle Corporation
+	420/606 ---> Programming language
+	440/606 ---> Pydoc
+	460/606 ---> R (programming language)
+	480/606 ---> Ruby (programming language)
+	500/606 ---> Shallow copy
+	520/606 ---> Spotify
+	540/606 ---> TACTIC (web framework)
+	560/606 ---> Tornado (web server)
+	580/606 ---> Virtual machine
+	600/606 ---> Yoshua Bengio
+47/65 ---> RStudio
+	0/205 ---> Adobe Flash
+	20/205 ---> CLion
+	40/205 ---> Distributed R
+	60/205 ---> Geany
+	80/205 ---> Java GUI for R
+	100/205 ---> Microsoft Small Basic
+	120/205 ---> PhpStorm
+	140/205 ---> R (programming language)
+	160/205 ---> SQL
+	180/205 ---> Tidyverse
+	200/205 ---> Xamarin Studio
+48/65 ---> R (programming language)
+	0/387 ---> .NET Framework
+	20/387 ---> Bell Laboratories
+	40/387 ---> Commercial software
+	60/387 ---> Distributed R
+	80/387 ---> Fortran
+	100/387 ---> GNU
+	120/387 ---> GNU Hurd
+	140/387 ---> Genstat
+	160/387 ---> ISBN (identifier)
+	180/387 ---> Julia (programming language)
+	200/387 ---> Linking (computing)
+	220/387 ---> Matrix (mathematics)
+	240/387 ---> Nonlinear
+	260/387 ---> PMID (identifier)
+	280/387 ---> RKWard
+	300/387 ---> Rmetrics
+	320/387 ---> Salome (software)
+	340/387 ---> Spatial analysis
+	360/387 ---> Tidyverse
+	380/387 ---> World Programming System
+49/65 ---> ReStructuredText
+	0/83 ---> AmigaGuide
+	20/83 ---> FHTML
+	40/83 ---> Markup language
+	60/83 ---> RTML
+	80/83 ---> XHTML
+50/65 ---> Read–eval–print loop
+	0/31 ---> Benchmarking
+	20/31 ---> Prettyprint
+51/65 ---> Rich Internet application
+	0/308 ---> 2008 Summer Olympics
+	20/308 ---> Apache JServ Protocol
+	40/308 ---> Brave (web browser)
+	60/308 ---> Conkeror
+	80/308 ---> Firefox
+	100/308 ---> HTML5 File API
+	120/308 ---> Iris Browser
+	140/308 ---> List of rich Internet application frameworks
+	160/308 ---> Microsoft Silverlight
+	180/308 ---> NetCaptor
+	200/308 ---> Phusion Passenger
+	220/308 ---> Sandbox (computer security)
+	240/308 ---> Steel (web browser)
+	260/308 ---> W3m
+	280/308 ---> Web application
+	300/308 ---> XHTML
+52/65 ---> Ruby (programming language)
+	0/769 ---> .NET Framework
+	20/769 ---> Alternative terms for free software
+	40/769 ---> Birthstone
+	60/769 ---> CocoaPods
+	80/769 ---> Complex number
+	100/769 ---> Digital rights management
+	120/769 ---> FDI World Dental Federation notation
+	140/769 ---> Free software movement
+	160/769 ---> Government of Japan
+	180/769 ---> Hole punch
+	200/769 ---> ISO/IEC 15504
+	220/769 ---> ISO/IEC 42010
+	240/769 ---> ISO/IEC 8859-15
+	260/769 ---> ISO 10007
+	280/769 ---> ISO 128
+	300/769 ---> ISO 15686
+	320/769 ---> ISO 2
+	340/769 ---> ISO 26000
+	360/769 ---> ISO 31-6
+	380/769 ---> ISO 428
+	400/769 ---> ISO 639-5
+	420/769 ---> ISO 8178
+	440/769 ---> Implicit type conversion
+	460/769 ---> International Standard Text Code
+	480/769 ---> Julia (programming language)
+	500/769 ---> List of International Organization for Standardization standards
+	520/769 ---> List of trademarked open-source software
+	540/769 ---> MaxiCode
+	560/769 ---> Multiple inheritance
+	580/769 ---> Open-source-software movement
+	600/769 ---> PHIGS
+	620/769 ---> Programming Ruby
+	640/769 ---> RSS
+	660/769 ---> Rubinius
+	680/769 ---> SQL
+	700/769 ---> Software developer
+	720/769 ---> The Free Software Definition
+	740/769 ---> Vagrant (software)
+	760/769 ---> XML Metadata Interchange
+53/65 ---> SageMath
+	0/326 ---> ADMB
+	20/326 ---> C++
+	40/326 ---> Comparison of open-source and closed-source software
+	60/326 ---> Dataplot
+	80/326 ---> Fork (software development)
+	100/326 ---> GNU Manifesto
+	120/326 ---> History of free and open-source software
+	140/326 ---> Lenstra elliptic curve factorization
+	160/326 ---> List of open-source codecs
+	180/326 ---> Maple (software)
+	200/326 ---> MuPAD
+	220/326 ---> OpenDreamKit
+	240/326 ---> RATS (software)
+	260/326 ---> SYSTAT (software)
+	280/326 ---> Speakeasy (computational environment)
+	300/326 ---> Twisted (software)
+	320/326 ---> XLispStat
+54/65 ---> Scilab
+	0/102 ---> ADMB
+	20/102 ---> Dynamical system
+	40/102 ---> Gmsh
+	60/102 ---> Maple (software)
+	80/102 ---> ScicosLab
+	100/102 ---> Xcos
+55/65 ---> Spyder (software)
+	0/163 ---> Adobe Flash
+	20/163 ---> Code::Blocks
+	40/163 ---> Fedora (operating system)
+	60/163 ---> IntelliJ IDEA
+	80/163 ---> MacPorts
+	100/163 ---> PascalABC.NET
+	120/163 ---> R (programming language)
+	140/163 ---> Syntax highlighting
+	160/163 ---> Xcode
+56/65 ---> Swift (programming language)
+	0/295 ---> .NET Framework
+	20/295 ---> Assembly language
+	40/295 ---> Cocoa Touch
+	60/295 ---> Exception handling
+	80/295 ---> Generational list of programming languages
+	100/295 ---> IOS
+	120/295 ---> IPhoto
+	140/295 ---> Lisp (programming language)
+	160/295 ---> MacWrite
+	180/295 ---> Mobile app
+	200/295 ---> Open-source-software movement
+	220/295 ---> Proprietary programming language
+	240/295 ---> Schoolwork (Apple)
+	260/295 ---> Swift Playgrounds
+	280/295 ---> Ubuntu
+57/65 ---> Tensor processing unit
+	0/128 ---> 19-inch rack
+	20/128 ---> Asus
+	40/128 ---> Debian
+	60/128 ---> Gradient descent
+	80/128 ---> Neural machine translation
+	100/128 ---> Regression analysis
+	120/128 ---> USB
+58/65 ---> The Atlantic
+	0/150 ---> Abolition of slavery
+	20/150 ---> Battle Hymn of the Republic
+	40/150 ---> David Frum
+	60/150 ---> Forbes
+	80/150 ---> James Russell Lowell
+	100/150 ---> Mortimer Zuckerman
+	120/150 ---> Steve Jobs
+	140/150 ---> Walter Hines Page
+59/65 ---> The Leona M. and Harry B. Helmsley Charitable Trust
+	0/8 ---> Conservation movement
+60/65 ---> Tornado (web server)
+	0/367 ---> .NET Framework
+	20/367 ---> Apache Hive
+	40/367 ---> C++
+	60/367 ---> CodeIgniter
+	80/367 ---> Drupal
+	100/367 ---> Facebook Graph Search
+	120/367 ---> Fat-Free Framework
+	140/367 ---> H2O (web server)
+	160/367 ---> JBoss Seam
+	180/367 ---> Lawsuits involving Facebook
+	200/367 ---> Matt Cohler
+	220/367 ---> Naomi Gleit
+	240/367 ---> OpenUI5
+	260/367 ---> Phusion Passenger
+	280/367 ---> React (JavaScript library)
+	300/367 ---> Seaside (software)
+	320/367 ---> TYPO3 Flow
+	340/367 ---> Wakanda (software)
+	360/367 ---> Yesod (web framework)
+61/65 ---> Web application
+	0/178 ---> API economy
+	20/178 ---> Cloud computing
+	40/178 ---> Gears (software)
+	60/178 ---> JSGI
+	80/178 ---> Mod parrot
+	100/178 ---> Operating system
+	120/178 ---> Server-side
+	140/178 ---> WebGL
+	160/178 ---> Web engineering
+62/65 ---> Wolfram Mathematica
+	0/474 ---> .NET Framework
+	20/474 ---> Apple Inc.
+	40/474 ---> C++
+	60/474 ---> Clojure
+	80/474 ---> Conrad Wolfram
+	100/474 ---> Digital art
+	120/474 ---> FEATool Multiphysics
+	140/474 ---> Fractint
+	160/474 ---> GUI
+	180/474 ---> Graphviz
+	200/474 ---> Information visualization
+	220/474 ---> KANT (software)
+	240/474 ---> List of statistical software
+	260/474 ---> Mandelbox
+	280/474 ---> Microsoft Cognitive Toolkit
+	300/474 ---> Natural language user interface
+	320/474 ---> OpenPlaG
+	340/474 ---> PubChem
+	360/474 ---> Revolution Analytics
+	380/474 ---> Scilab
+	400/474 ---> Stan (software)
+	420/474 ---> TSP (econometrics software)
+	440/474 ---> VIGRA
+	460/474 ---> Wolfram Demonstrations Project
+63/65 ---> ZeroMQ
+	0/53 ---> Advanced Message Queuing Protocol
+	20/53 ---> High-throughput computing
+	40/53 ---> Remote procedure call
+64/65 ---> ØMQ
+	0/53 ---> Advanced Message Queuing Protocol
+	20/53 ---> High-throughput computing
+	40/53 ---> Remote procedure call
+Ego Netwrok: Project Jupyter
+	original: |V|=12007 |E|=19674
+	truncated: |V|=3864 |E|=11531
+1. Degree Centrality
+	out degree: 64 ... Normalized: 0.016567434636293038
+	in degree: 8 ... Normalized: 0.0020709293295366298
+2. Betweenness Centrality
+	betweenness: 124864 ... Normalized: 0.21550681139184358
+3. Closeness Centrality
+	closeness Centrality: 0.005223005588463705
+	closeness Centrality: 0.3351843817787419
+Downloading Bembidion-ambiguum
+0/21 ---> Animal
+	0/806 ---> 10th edition of Systema Naturae
+	20/806 ---> Ambulacraria
+	40/806 ---> Animal rights
+	60/806 ---> Archaea
+	80/806 ---> Aves in the 10th edition of Systema Naturae
+	100/806 ---> Biological life cycle
+	120/806 ---> Bryozoa
+	140/806 ---> Cellular differentiation
+	160/806 ---> Choanoflagellata
+	180/806 ---> Clavaviridae
+	200/806 ---> Corallochytrea
+	220/806 ---> Deer in mythology
+	240/806 ---> Diploblastic
+	260/806 ---> Ecdysis
+	280/806 ---> Energy
+	300/806 ---> Exuviae
+	320/806 ---> Fosmid
+	340/806 ---> Gastrotrich
+	360/806 ---> Gnetophyta
+	380/806 ---> Hemimastigophora
+	400/806 ---> Human
+	420/806 ---> Insects in mythology
+	440/806 ---> LCCN (identifier)
+	460/806 ---> Lobosa
+	480/806 ---> Meat
+	500/806 ---> Monodnaviria
+	520/806 ---> Nematodes
+	540/806 ---> Opalinata
+	560/806 ---> Parrot
+	580/806 ---> Pirsoniales
+	600/806 ---> Polydnaviridae
+	620/806 ---> Protostome
+	640/806 ---> Riboviria
+	660/806 ---> Schizocoely
+	680/806 ---> Snake
+	700/806 ---> Stegophilinae
+	720/806 ---> Tardigrade
+	740/806 ---> Tonian
+	760/806 ---> Tsukubea
+	780/806 ---> Virophage
+	800/806 ---> ZooBank
+1/21 ---> Arthropod
+	0/652 ---> ASM Press
+	20/652 ---> Amphibian
+	40/652 ---> Aquatic animal
+	60/652 ---> Auditory ossicle
+	80/652 ---> Biomimesis
+	100/652 ---> BugGuide
+	120/652 ---> Cephalopod
+	140/652 ---> Chromadorea
+	160/652 ---> Copepods
+	180/652 ---> Cycloneuralia
+	200/652 ---> Dubious species
+	220/652 ---> Enzyme
+	240/652 ---> Fauna Europaea
+	260/652 ---> GND (identifier)
+	280/652 ---> Gonopod
+	300/652 ---> Hemolymph
+	320/652 ---> Incertae sedis
+	340/652 ---> Japanese spider crab
+	360/652 ---> Lens (anatomy)
+	380/652 ---> Mandible (arthropod)
+	400/652 ---> Micrognathozoa
+	420/652 ---> Myriapoda
+	440/652 ---> New Scientist
+	460/652 ---> Ostracod
+	480/652 ---> Parvancorina
+	500/652 ---> Placozoa
+	520/652 ---> Proteobacteria
+	540/652 ---> Sanctacaris
+	560/652 ---> Sidnie Manton
+	580/652 ---> Subesophageal ganglia
+	600/652 ---> Terrestrial animal
+	620/652 ---> Tusk shell
+	640/652 ---> Wax
+2/21 ---> Beetle
+	0/891 ---> 10th edition of Systema Naturae
+	20/891 ---> Alimentary canal
+	40/891 ---> Antenna (biology)
+	60/891 ---> Arkagala
+	80/891 ---> Bavaria
+	100/891 ---> Biological pest control
+	120/891 ---> Brentidae
+	140/891 ---> Campylopteridae
+	160/891 ---> Cerambus
+	180/891 ---> Cicindelidae
+	200/891 ---> Coconut
+	220/891 ---> Cucujiformia
+	240/891 ---> Derodontidae
+	260/891 ---> Dytiscidae
+	280/891 ---> Elephant beetle
+	300/891 ---> Ester
+	320/891 ---> Featherwing beetle
+	340/891 ---> Frankfurt, Germany
+	360/891 ---> Grasshopper
+	380/891 ---> Hemiptera
+	400/891 ---> Hycleus
+	420/891 ---> ISBN (identifier)
+	440/891 ---> Insects in medicine
+	460/891 ---> Jingzhe
+	480/891 ---> Laemophloeidae
+	500/891 ---> List of endangered insects
+	520/891 ---> Mantis
+	540/891 ---> Meloidae
+	560/891 ---> Monotomidae
+	580/891 ---> National Biodiversity Network
+	600/891 ---> Notoptera
