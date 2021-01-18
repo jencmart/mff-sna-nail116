@@ -402,8 +402,30 @@ def analayze_graph(fname, fname_paths):
     # Edge prediction
     plot_edge_predtion(G, min_size, max_size, font_size)
 
+
+def print_top_degrees(G, nodes):
+    degrees = {n: G.degree(n) for n in nodes}
+    degrees = {k: v for k, v in sorted(degrees.items(), key=lambda item: item[1], reverse=True)}
+    idx = 0
+    for k, v in degrees.items():
+        print("{} :  {}".format(k,v))
+        idx+=1
+        if idx == 10:
+            break
+
+def print_info_about_dataset():
+    G = load_graph()
+    heroes = [x for x, y in G.nodes(data=True) if y['bipartite'] == 0]
+    comics = [x for x, y in G.nodes(data=True) if y['bipartite'] == 1]
+    print_top_degrees(G, heroes)
+    print("-----------------------")
+    print_top_degrees(G, comics)
+
+
+
 if __name__ == '__main__':
     graph_file = 'heroes.pickle'
     paths_file = "heroes-sp.picke"
     #create_and_save_graph(fname=graph_file, fname_paths = paths_file)
-    analayze_graph(fname=graph_file, fname_paths = paths_file)
+    # analayze_graph(fname=graph_file, fname_paths = paths_file)
+    print_info_about_dataset()
